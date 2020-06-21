@@ -28,7 +28,7 @@ navbar-links:
   Awards: "awards"
   Publications: "pubs"
   Experiences: "experiences"
-  Good Reads: "goodread" 
+  Good Reads: "goodreads" 
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -44,9 +44,9 @@ avatar: "/img/avatar.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: <a href='http://www.hit-counts.com'><img src='http://www.hit-counts.com/counter.php?t=MTM4NTA4MQ==' border='0' alt='Hit Counter'></a><br/>Jingbo Shang 
-  email: "shang7@illinois.edu"
-  facebook: jingbo.shang
-  github: shangjingbo1226
+  email: "sahilm1992@gmail.com"
+  facebook: sahilm1992
+  github: ahilm1992
   
 # Select which links to show in the footer
 footer-links-active:
