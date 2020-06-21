@@ -11,10 +11,10 @@ A selection of my <b>experiences</b>.
 ## <center>Employments</center>
 
 - **Conduent labs( Former Xerox Research Center)**, Bengaluru, July 2017- Jan 2019
-  * Research Engineer, Machine Learning and Statistics
+  * **Research Engineer**, Machine Learning and Statistics
 <br/><br/>
 - **Adobe Systems**, Delhi, June 2014-July 2015
-  * Software Engineer, Adobe Document Cloud
+  * **Software Engineer**, Adobe Document Cloud
 
 
 
@@ -34,7 +34,7 @@ A selection of my <b>experiences</b>.
 
 
 ### Miscellaneous
-- Student Member ( PG ) - Post Graduate Programme Committee, CSE, IIT Guwahati, 2016-2017
-- Android Application Developer- School of Information Technology, Delhi, 2013
+- **Student Member ( PG )** - Post Graduate Programme Committee, CSE, IIT Guwahati, 2016-2017
+- **Android Application Developer Intern**- School of Information Technology, Delhi, 2013
  
 
