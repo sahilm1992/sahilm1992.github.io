@@ -19,10 +19,10 @@ A selection of my <b>experiences</b>.
 
 ## <center>Teaching Assistant </center>
 
-- **Teaching Assistant**, Data Structures and Algorithms (UG), IIT Delhi- 2019, 2020
-- **Teaching Assistant**, Introduction to Programming (UG) , IIT Guwahati- 2017
-- **Teaching Assistant**, Mathematics for Computer Science (PG), IIT Guwahati- 2016 
-- **Teaching Assistant**, Computer Systems (UG) , IIT Guwahati- 2015
+- Data Structures and Algorithms (UG), IIT Delhi- 2019, 2020
+- Introduction to Programming (UG) , IIT Guwahati- 2017
+- Mathematics for Computer Science (PG), IIT Guwahati- 2016 
+- Computer Systems (UG) , IIT Guwahati- 2015
 
 ## <center>Professional Service</center>
 
