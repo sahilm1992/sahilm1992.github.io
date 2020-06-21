@@ -11,8 +11,5 @@ Intersting Graph and Machine Learning papers
 
 ### Large Scale Machine learning
 
-1. "[GraphSAINT](www.openreview.net/pdf?id=BJe8pkHFwS)"
-
-1. **Sahil Manchanda** and Ashish Anand "[Representation Learning of Drug and Disease Terms for Drug Repositioning](https://ieeexplore.ieee.org/abstract/document/7985802)".
-
-  
+1. **GraphSAINT Graph Sampling Based Inductive Learning Method "[GraphSAINT](www.openreview.net/pdf?id=BJe8pkHFwS)"
+<br> Zeng et al. - ICLR 2020.
