@@ -50,3 +50,14 @@ Interesting Graph and Machine Learning papers
 <br>
   
   
+4. "[Inductive Representation Learning on Large Graphs](https://arxiv.org/pdf/1706.02216.pdf)"
+<br>           Hamilton et al. -<b> NeurIPS 2017</b>.
+ <br><br>
+  <b>Contribution:</b>
+  <br>       a. Inductive approach
+<br>         b. Learns aggregation matrices.
+<br>         c. Samples neighorhood uniformly.
+
+  
+<br> 
+  
