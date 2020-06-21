@@ -27,7 +27,7 @@ navbar-links:
   About Me: "about"
   Awards: "awards"
   Publications: "Publication and Patents"
-  Experiences: "experience"
+  Experiences: "experiences"
   Service: "Service" 
 
 # Image to show in the navigation bar - image must be a square (width = height)
