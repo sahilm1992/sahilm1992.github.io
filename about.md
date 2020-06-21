@@ -19,5 +19,5 @@ I am a second-year Ph.D. student working under the supervision of Dr. [Sayan Ran
 My research focuses on learning algorithms for large scale graphs and dynamic networks.
 Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India).
 
-I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati][ACM Honored class](http://cse.iitd.ac.in).
+I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://cse.iitd.ac.in).
 
