@@ -15,7 +15,8 @@ permalink: /pubs/
 2. **Sahil Manchanda**, Arun Rajkumar, Simarjot Kaur, Narayanan Unny "[SUPAID: A Rule mining based method for automatic rollout decision aid for supervisors in fleet management systems](https://arxiv.org/ftp/arxiv/papers/2001/2001.03386.pdf/)".
 
 ### Publication
-1. **Sahil Manchanda** and Ashish Anand "[Representation Learning of Drug and Disease Terms for Drug Repositioning] (https://ieeexplore.ieee.org/abstract/document/7985802)":
+1. **Sahil Manchanda** and Ashish Anand "[Representation Learning of Drug and Disease Terms for Drug Repositioning](https://ieeexplore.ieee.org/abstract/document/7985802)":
+
 
 ### Patent
 1. **Trained Pattern Analyzer for Rollout Decisions"** (Application number 16/375931).
