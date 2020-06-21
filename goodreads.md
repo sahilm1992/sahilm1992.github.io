@@ -12,7 +12,7 @@ Intersting Graph and Machine Learning papers
 ### Large Scale Machine learning
 
 1. "[GraphSAINT Graph Sampling Based Inductive Learning Method](www.openreview.net/pdf?id=BJe8pkHFwS)"
-<br> Zeng et al. - ICLR 2020.
+<br> Zeng et al. -<b> ICLR 2020</b>.
  <br><br>
   <b>Contribution:</b>
   <br>       a. Samples sub-graphs and runs GCN on entire sub-graph without node sampling in layers.
