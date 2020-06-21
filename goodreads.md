@@ -32,11 +32,21 @@ Interesting Graph and Machine Learning papers
 <br>
 
 2. "[Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/pdf/1806.08804.pdf)"
-<br>           Ying et al. -<b> NeurIPS 2019</b>.
+<br>           Ying et al. <b></b>.
  <br><br>
   <b>Contribution:</b>
   <br>       a. Aggregates nodes into clusters.
 <br>         b. Coarsens clusters into larger level clusters.
   
 <br>
+  
+3. "[Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)"
+<br>           Velickovic et al. -<b> ICLR 2018</b>.
+ <br><br>
+  <b>Contribution:</b>
+  <br>       a. Aggregate neighbor information based upon importance.
+<br>         b. Inductive approach/
+  
+<br>
+  
   
