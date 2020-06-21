@@ -16,7 +16,7 @@ permalink: /about/
 
 I am a second-year Ph.D. student working under the supervision of Dr. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) in the Department of Computer Science and Engineering at [IIT Delhi](https:cse.iitd.ac.in).
 
-My research focuses on learning algorithms for large scale graphs and dynamic networks. My [Google Scholar profile](https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en) can be visited for more details 
+My research is focused on learning algorithms for large scale graphs and dynamic networks. My [Google Scholar profile](https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en) can be visited for more details 
 
-Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://cse.iitd.ac.in).
+Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse).
 
