@@ -25,7 +25,7 @@ description: PhD Student- IIT Delhi
 # List of links in the navigation bar
 navbar-links:
   About Me: "about"
-  Awards: "awards"
+ # Awards: "awards"
   Publications: "pubs"
   Experiences: "experiences"
   Good Reads: "goodreads" 
@@ -43,10 +43,9 @@ avatar: "/img/avatar.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: <a href='http://www.hit-counts.com'><img src='http://www.hit-counts.com/counter.php?t=MTM4NTA4MQ==' border='0' alt='Hit Counter'></a><br/>Jingbo Shang 
-  email: "sahilm1992@gmail.com"
+  name: <a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ0OTI4OA==' border='0' alt='logo creation'></a><BR><a href='https://www.glowgraphics.co.uk/'>logo creation</a>  email: "sahilm1992@gmail.com"
   facebook: sahilm1992
-  github: ahilm1992
+  github: sahilm1992
   
 # Select which links to show in the footer
 footer-links-active:
