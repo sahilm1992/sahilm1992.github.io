@@ -17,6 +17,7 @@ A selection of my <b>experiences</b>.
   * Software Engineer, Adobe Document Cloud
 
 
+
 ## <center>Teaching Assistant </center>
 
 - Data Structures and Algorithms (UG), IIT Delhi- 2019, 2020
@@ -32,4 +33,10 @@ A selection of my <b>experiences</b>.
 - [TKDE Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69), 2020
 - [International Conference on Data Engineering - ICDE](https://www.utdallas.edu/icde/), 2020
 - [CODS-COMAD](https://cods-comad.in/2020/callforpapers.html), 2019
+
+
+### Miscellaneous
+- Student Member ( PG ) - Post Graduate Programme Committee, CSE, IIT Guwahati, 2016-2017
+- Android Application Developer- School of Information Technology, Delhi, 2013
+ 
 
