@@ -13,10 +13,10 @@ Intersting Graph and Machine Learning papers
 
 1. "[GraphSAINT Graph Sampling Based Inductive Learning Method](www.openreview.net/pdf?id=BJe8pkHFwS)"
 <br> Zeng et al. - ICLR 2020.
- 
+ <br>
   Contribution:
-  a. Samples sub-graphs and runs GCN on entire sub-graph without node sampling in layers.
-  b. Sampling procedure to sample subgraph to avoid bias.
+  <br>a. Samples sub-graphs and runs GCN on entire sub-graph without node sampling in layers.
+<br>  b. Sampling procedure to sample subgraph to avoid bias.
   
 
   
