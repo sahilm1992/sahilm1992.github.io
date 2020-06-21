@@ -4,7 +4,7 @@ title:
 permalink: /awards/
 ---
 
-**Achivements**
+**Achievements**
 
 🏆 **Graduate Aptitude Test in Engineering GATE 2015**: All India rank 273 among 115425 candidates
 <br/> <br/>
