@@ -117,10 +117,6 @@ Interesting Graph and Machine Learning papers
 "[Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/pdf/1806.01973.pdf)"
 <br>           Ying et al. -<b> KDD 2018</b>.
  <br><br>
-  <b>Contribution:</b>
-  <br>      a. Inductive approach
-<br>         b. Learns aggregation matrices.
-<br>        c. Samples neighorhood uniformly.
 <br>
 <br>
 
