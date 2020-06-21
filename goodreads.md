@@ -6,7 +6,7 @@ permalink: /goodreads/
 
 
 <p align="center">
-Intersting Graph and Machine Learning papers
+Interesting Graph and Machine Learning papers
 </p>
 
 ### Large Scale Machine learning
@@ -18,6 +18,18 @@ Intersting Graph and Machine Learning papers
   <br>       a. Samples sub-graphs and runs GCN on entire sub-graph without node sampling in layers.
 <br>         b. Defined node and edge sampling procedure in order to avoid bias.
   
+<br>
+
+### GNN
+
+1. "[Position-aware Graph Neural Networks](https://arxiv.org/pdf/1906.04817.pdf)"
+<br>           You et al. -<b> ICML 2019</b>.
+ <br><br>
+  <b>Contribution:</b>
+  <br>       a. Two nodes, even if they have same neighboorhood get different embeddings. This is not in the case of GraphSage.
+<br>         b. Uses Landmark nodes and weighs message from node to landmark nodes using distance to landmark node.
+  
+<br>
 
   
   
