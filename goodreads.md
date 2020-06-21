@@ -85,9 +85,9 @@ Interesting Graph and Machine Learning papers
 <br>           Hamilton et al. -<b> NeurIPS 2017</b>.
  <br><br>
   <b>Contribution:</b>
-  <br>    &nbsp&nbsp&nbsp    a. Inductive approach
-<br>      &nbsp&nbsp&nbsp    b. Learns aggregation matrices.
-<br>      &nbsp&nbsp&nbsp   c. Samples neighorhood uniformly.
+  <br>      a. Inductive approach
+<br>        b. Learns aggregation matrices.
+<br>        c. Samples neighorhood uniformly.
 
 
 
@@ -97,17 +97,17 @@ Interesting Graph and Machine Learning papers
 <br>           Ying et al. -<b> KDD 2018</b>.
  <br><br>
   <b>Contribution:</b>
-  <br>    &nbsp&nbsp&nbsp    a. Inductive approach
-<br>      &nbsp&nbsp&nbsp    b. Learns aggregation matrices.
-<br>      &nbsp&nbsp&nbsp   c. Samples neighorhood uniformly.
+  <br>      a. Inductive approach
+<br>         b. Learns aggregation matrices.
+<br>        c. Samples neighorhood uniformly.
 
 
 "[Session-based Social Recommendation via Dynamic Graph Attention Networks](https://arxiv.org/pdf/1902.09362.pdf)"
 <br>           Song et al. -<b> WSDM 2019</b>.
  <br><br>
   <b>Contribution:</b>
-  <br>    &nbsp&nbsp&nbsp    a. Dynamic user interests and context-dependent social influences.
-<br>      &nbsp&nbsp&nbsp    b. Attention based modelling
+  <br>  a. Dynamic user interests and context-dependent social influences.
+<br>    b. Attention based modelling
 
 
 
