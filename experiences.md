@@ -10,7 +10,7 @@ A selection of my <b>experiences</b>.
 
 ## <center>Employments</center>
 
-- **Conduent labs( Former Xerox Research Center)**, Bengaluru, India,  July 2017- Jan 2019
+- **Conduent labs( Former Xerox Research Center)**, Bengaluru, July 2017- Jan 2019
   * Research Engineer, Machine Learning and Statistics
 
 - **Adobe Systems**, Delhi, June 2014-July 2015
