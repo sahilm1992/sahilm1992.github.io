@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Jingbo Shang 
+title: Sahil Manchanda
 
 # Short description of your site
-description: Welcome to Jingbo Shang's Homepage! 
+description: PhD Student- IIT Delhi
 
 # --- Navigation bar options --- #
 
@@ -25,8 +25,9 @@ description: Welcome to Jingbo Shang's Homepage!
 navbar-links:
   About Me: "about"
   Awards: "awards"
-  Publications: "publications"
-  Experiences: "experiences"
+  Publications: "Publication and Patents"
+  Experiences: "Experience"
+  Service:"Service" 
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
