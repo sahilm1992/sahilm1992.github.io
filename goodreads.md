@@ -11,7 +11,7 @@ Intersting Graph and Machine Learning papers
 
 ### Large Scale Machine learning
 
-1. "[GraphSAINT](https://ieeexplore.ieee.org/abstract/document/7985802)".
+1. "[GraphSAINT](www.openreview.net/pdf?id=BJe8pkHFwS)"
 
 1. "[GraphSAINT](www.openreview.net/pdf?id=BJe8pkHFwS)
     ICLR 2020"
