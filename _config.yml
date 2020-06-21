@@ -43,7 +43,8 @@ avatar: "/img/avatar.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: <a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ0OTI4OA==' border='0' alt='logo creation'></a><BR><a href='https://www.glowgraphics.co.uk/'>logo creation</a>  email: "sahilm1992@gmail.com"
+  name: <a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ0OTI4OA==' border='0' alt='logo creation'></a><BR><a href='https://www.glowgraphics.co.uk/'>logo creation</a>
+  email: "sahilm1992@gmail.com"
   facebook: sahilm1992
   github: sahilm1992
   
