@@ -20,6 +20,33 @@ Interesting Graph and Machine Learning papers
   
 <br>
 
+### Combinatorial Optimization
+
+"[Learning Combinatorial Optimization Algorithms over Graphs](https://arxiv.org/abs/1704.01665)"
+<br>           Dai et al. -<b> NeurIPS 2017</b>.
+ <br><br>
+  <b>Contribution:</b>
+  <br>       a. GCN + RL End to End framework for Comb Optimization.
+  <br>       b. Tackled problems like TSP, Vertex Cover, Set Cover etc.
+<br>
+
+"[Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search](https://arxiv.org/abs/1810.10659)"
+<br>           Lee et al. -<b> NeurIPS 2018</b>.
+ <br><br>
+  <b>Contribution:</b>
+  <br>       a. GCN + Guided Tree Search.
+  <br>       b. Parallelizable 
+<br>
+
+"[Attention, Learn to Solve Routing Problems!](https://arxiv.org/abs/1810.10659)"
+<br>           Kool et al. -<b> ICLR 2019</b>.
+ <br><br>
+  <b>Contribution:</b>
+  <br>       a. GCN + Transformer to encode Graph
+  <br>       b. Decoder to output sequence of nodes.
+<br>
+
+
 ### GNN
 
 "[Position-aware Graph Neural Networks](https://arxiv.org/pdf/1906.04817.pdf)"
@@ -56,5 +83,5 @@ Interesting Graph and Machine Learning papers
 <br>         b. Learns aggregation matrices.
 <br>         c. Samples neighorhood uniformly.
 
-\
+
   
