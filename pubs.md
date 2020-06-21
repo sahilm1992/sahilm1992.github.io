@@ -10,7 +10,7 @@ permalink: /pubs/
 
 ### Manuscripts
 
-1.   **Sahil Manchanda**, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, Ambuj Singh "[Contrast Subgraph Mining from Coherent Cores](https://arxiv.org/abs/1903.03332)".
+1.   **Sahil Manchanda**, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, Ambuj Singh "[Learning Heuristics over Large Graphs via Deep Reinforcement Learning](https://arxiv.org/abs/1903.03332)".
 
 2. **Sahil Manchanda**, Arun Rajkumar, Simarjot Kaur, Narayanan Unny "[SUPAID: A Rule mining based method for automatic rollout decision aid for supervisors in fleet management systems](https://arxiv.org/ftp/arxiv/papers/2001/2001.03386.pdf/)".
 
