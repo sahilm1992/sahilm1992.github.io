@@ -1,9 +1,9 @@
-
 ---
 layout: page
 title: 
 permalink: /goodreads/
 ---
+
 
 
 ### Large Scale Machine learning
