@@ -11,7 +11,7 @@ Interesting Graph and Machine Learning papers
 
 ### Large Scale Machine learning
 
-1. "[GraphSAINT Graph Sampling Based Inductive Learning Method](www.openreview.net/pdf?id=BJe8pkHFwS)"
+"[GraphSAINT Graph Sampling Based Inductive Learning Method](www.openreview.net/pdf?id=BJe8pkHFwS)"
 <br>           Zeng et al. -<b> ICLR 2020</b>.
  <br><br>
   <b>Contribution:</b>
@@ -22,7 +22,7 @@ Interesting Graph and Machine Learning papers
 
 ### GNN
 
-1. "[Position-aware Graph Neural Networks](https://arxiv.org/pdf/1906.04817.pdf)"
+"[Position-aware Graph Neural Networks](https://arxiv.org/pdf/1906.04817.pdf)"
 <br>           You et al. -<b> ICML 2019</b>.
  <br><br>
   <b>Contribution:</b>
@@ -31,26 +31,24 @@ Interesting Graph and Machine Learning papers
   
 <br>
 
-2. "[Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/pdf/1806.08804.pdf)"
+ "[Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/pdf/1806.08804.pdf)"
 <br>           Ying et al. <b></b>.
  <br><br>
   <b>Contribution:</b>
   <br>       a. Aggregates nodes into clusters.
 <br>         b. Coarsens clusters into larger level clusters.
   
-<br>
-  
-3. "[Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)"
+
+"[Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)"
 <br>           Velickovic et al. -<b> ICLR 2018</b>.
  <br><br>
   <b>Contribution:</b>
   <br>       a. Aggregate neighbor information based upon importance.
 <br>         b. Inductive approach/
   
-<br>
   
   
-4. "[Inductive Representation Learning on Large Graphs](https://arxiv.org/pdf/1706.02216.pdf)"
+"[Inductive Representation Learning on Large Graphs](https://arxiv.org/pdf/1706.02216.pdf)"
 <br>           Hamilton et al. -<b> NeurIPS 2017</b>.
  <br><br>
   <b>Contribution:</b>
@@ -58,6 +56,5 @@ Interesting Graph and Machine Learning papers
 <br>         b. Learns aggregation matrices.
 <br>         c. Samples neighorhood uniformly.
 
-  
-<br> 
+\
   
