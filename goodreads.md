@@ -34,6 +34,8 @@ Interesting Graph and Machine Learning papers
   <br>       b. Tackled problems like TSP, Vertex Cover, Set Cover etc.
 <br>
 <br>
+<br>
+
 
 "[Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search](https://arxiv.org/abs/1810.10659)"
 <br>           Lee et al. -<b> NeurIPS 2018</b>.
@@ -43,6 +45,8 @@ Interesting Graph and Machine Learning papers
   <br>       b. Parallelizable 
 <br>
 <br>
+<br>
+
 
 "[Attention, Learn to Solve Routing Problems!](https://arxiv.org/abs/1810.10659)"
 <br>           Kool et al. -<b> ICLR 2019</b>.
@@ -67,7 +71,9 @@ Interesting Graph and Machine Learning papers
   <br>       a. Two nodes, even if they have same neighboorhood get different embeddings. This is not in the case of GraphSage.
 <br>         b. Uses Landmark nodes and weighs message from node to landmark nodes using distance to landmark node.
   
-<br>
+<br><br>
+
+
 
  "[Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/pdf/1806.08804.pdf)"
 <br>           Ying et al. <b></b>.
@@ -76,7 +82,9 @@ Interesting Graph and Machine Learning papers
   <br>       a. Aggregates nodes into clusters.
 <br>         b. Coarsens clusters into larger level clusters.
   
-<br>
+<br><br>
+
+
 
 "[Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf)"
 <br>           Velickovic et al. -<b> ICLR 2018</b>.
@@ -85,6 +93,8 @@ Interesting Graph and Machine Learning papers
   <br>       a. Aggregate neighbor information based upon importance.
 <br>         b. Inductive approach/
   <br>
+<br>
+
 
   
   
@@ -96,6 +106,8 @@ Interesting Graph and Machine Learning papers
 <br>        b. Learns aggregation matrices.
 <br>        c. Samples neighorhood uniformly.
 <br>
+<br>
+
 
 <br>
 
@@ -110,6 +122,8 @@ Interesting Graph and Machine Learning papers
 <br>         b. Learns aggregation matrices.
 <br>        c. Samples neighorhood uniformly.
 <br>
+<br>
+
 
 
 "[Session-based Social Recommendation via Dynamic Graph Attention Networks](https://arxiv.org/pdf/1902.09362.pdf)"
@@ -118,7 +132,11 @@ Interesting Graph and Machine Learning papers
   <b>Contribution:</b>
   <br>  a. Dynamic user interests and context-dependent social influences.
 <br>    b. Attention based modelling
+<br><br>
 <br>
+
+
+
 
 
 "[Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/forum?id=ByxxgCEYDS)"
@@ -129,7 +147,9 @@ Interesting Graph and Machine Learning papers
 <br>    b. Localized graph- Perform GCN on localized subgraph for user-movie target pair.
 
 <br>
-<br>
+<br><br>
+
+
 
 
 ### Dynamic Networks
