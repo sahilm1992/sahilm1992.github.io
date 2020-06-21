@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 
-permalink: /publications/
+permalink: /pubs/
 ---
 
 <p align="center">
-<a href = "https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en">Google Scholar</a>.
+<a href = "https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en">Google Scholar</a>
 </p>
 
 ### Manuscripts
