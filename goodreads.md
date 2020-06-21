@@ -110,12 +110,26 @@ Interesting Graph and Machine Learning papers
 <br>    b. Attention based modelling
 
 
-"[Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/forum?id=ByxxgCEYDS)
+"[Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/forum?id=ByxxgCEYDS)"
 <br>           Zhang et al. -<b> ICLR 2020</b>.
  <br><br>
   <b>Contribution:</b>
   <br>  a. Featureless nodes
 <br>    b. Localized graph- Perform GCN on localized subgraph for user-movie target pair.
+
+
+
+### Dynamic Networks
+
+"[Multi-task Representation Learning for Travel Time Estimation](https://infolab.usc.edu/DocsDemos/kdd_2018_deep_eta.pdf)"
+<br>           Li et al. -<b> KDD 2018</b>.
+ <br><br>
+  <b>Contribution:</b>
+  <br>  a. Multi Task framework to predict travel time using auxillary tasks.
+<br>  
+
+
+
 
 
 
