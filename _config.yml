@@ -25,7 +25,7 @@ description: PhD Student- IIT Delhi
 # List of links in the navigation bar
 navbar-links:
   About Me: "about"
-  Awards: "awards"
+  Achievements: "awards"
   Publications: "pubs"
   Experience: "experiences"
   Good Reads: "goodreads" 
