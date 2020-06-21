@@ -68,7 +68,6 @@ Interesting Graph and Machine Learning papers
 <br>         b. Uses Landmark nodes and weighs message from node to landmark nodes using distance to landmark node.
   
 <br>
-<br>
 
  "[Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/pdf/1806.08804.pdf)"
 <br>           Ying et al. <b></b>.
