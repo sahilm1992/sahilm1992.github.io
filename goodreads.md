@@ -13,6 +13,6 @@ Intersting Graph and Machine Learning papers
 
 1. "[GraphSAINT](www.openreview.net/pdf?id=BJe8pkHFwS)"
 
-1. "[GraphSAINT](www.openreview.net/pdf?id=BJe8pkHFwS)
-    ICLR 2020"
+1. **Sahil Manchanda** and Ashish Anand "[Representation Learning of Drug and Disease Terms for Drug Repositioning](https://ieeexplore.ieee.org/abstract/document/7985802)".
+
   
