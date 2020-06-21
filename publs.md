@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 <p align="center">
-[Google Scholar](<a href = "https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en">Google Scholar</a>]).
+"[Google Scholar](<a href = "https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en">Google Scholar</a>])".
 </p>
 
 ### Manuscripts
