@@ -16,7 +16,6 @@ permalink: /pubs/
 
 ### Publication
 1. **Sahil Manchanda** and Ashish Anand "[Representation Learning of Drug and Disease Terms for Drug Repositioning](https://ieeexplore.ieee.org/abstract/document/7985802)".
-
     3rd IEEE Internation Conference on Cybernetics.
 
 
