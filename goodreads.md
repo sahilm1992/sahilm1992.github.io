@@ -114,7 +114,7 @@ Interesting Graph and Machine Learning papers
 
 
 ### Recommendation Systems using Graphs
-"[Graph Convolutional Neural Networks for Web-Scale Recommender Systems] (https://arxiv.org/pdf/1806.01973.pdf)"
+"[Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/pdf/1806.01973.pdf)"
 <br>           Ying et al. -<b> KDD 2018</b>.
  <br><br>
   <b>Contribution:</b>
