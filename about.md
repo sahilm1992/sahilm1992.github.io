@@ -14,8 +14,7 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a second-year Ph.D. student working under the supervision of Dr. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) in the Department of Computer Science and Engineering at [IIT Delhi](https:cse.iitd.ac.in), and a [Google PhD Fellow](https://ai.google/research/outreach/phd-fellowship).
-
+I am a second-year Ph.D. student working under the supervision of Dr. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) in the Department of Computer Science and Engineering at [IIT Delhi](https:cse.iitd.ac.in).
 
 My research focuses on learning algorithms for large scale graphs and dynamic networks.
 Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India).
