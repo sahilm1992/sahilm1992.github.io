@@ -25,7 +25,7 @@ A selection of my <b>experiences</b>.
 - Mathematics for Computer Science (PG), IIT Guwahati- 2016 
 - Computer Systems (UG) , IIT Guwahati- 2015
 
-### Reviewer
+### Sub/ External Reviewer
 
 - [Knowledge Discovery and Data Mining- KDD](https://www.kdd.org/kdd2020/), 2020
 - [TKDE Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69), 2020
