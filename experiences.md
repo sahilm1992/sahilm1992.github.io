@@ -34,7 +34,7 @@ A selection of my <b>experiences</b>.
 
 
 ### Miscellaneous
-- **Student Member ( PG )** - Post Graduate Programme Committee, CSE, IIT Guwahati, 2016-2017
+- **Student Representative ( PG )** - Post Graduate Programme Committee, CSE, IIT Guwahati, 2016-2017
 - **Android Application Developer Intern**- School of Information Technology, Delhi, 2013
  
 
