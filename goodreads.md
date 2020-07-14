@@ -156,7 +156,21 @@ Interesting Graph and Machine Learning papers
   <b>Contribution:</b>
   <br>  a. Multi Task framework to predict travel time using auxillary tasks.
 <br>  
+<br>
+<br>
 
+
+
+"[emporal Network Representation Learning viaHistorical Neighborhoods Aggregation](https://arxiv.org/pdf/2003.13212.pdf#cite.zhou2018dynamic)"
+<br>           Li et al. -<b> ICDE 2020</b>.
+ <br><br>
+  <b>Contribution:</b>
+  <br>  a. Concept of temporal random walks
+  <br>  b. Different weight to different edges based upon timestamp.
+  <br>  c. Different weightage to different random walks.
+  
+  
+<br>  
 
 
 
