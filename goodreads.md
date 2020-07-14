@@ -162,7 +162,7 @@ Interesting Graph and Machine Learning papers
 
 
 "[Temporal Network Representation Learning viaHistorical Neighborhoods Aggregation](https://arxiv.org/pdf/2003.13212.pdf#cite.zhou2018dynamic)"
-<br>           Li et al. -<b> ICDE 2020</b>.
+<br>           Huang et al. -<b> ICDE 2020</b>.
  <br><br>
   <b>Contribution:</b>
   <br>  a. Concept of temporal random walks
