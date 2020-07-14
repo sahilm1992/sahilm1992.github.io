@@ -161,7 +161,7 @@ Interesting Graph and Machine Learning papers
 
 
 
-"[emporal Network Representation Learning viaHistorical Neighborhoods Aggregation](https://arxiv.org/pdf/2003.13212.pdf#cite.zhou2018dynamic)"
+"[Temporal Network Representation Learning viaHistorical Neighborhoods Aggregation](https://arxiv.org/pdf/2003.13212.pdf#cite.zhou2018dynamic)"
 <br>           Li et al. -<b> ICDE 2020</b>.
  <br><br>
   <b>Contribution:</b>
