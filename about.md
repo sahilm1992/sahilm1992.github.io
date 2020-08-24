@@ -6,7 +6,7 @@ permalink: /about/
 
 <p align="center">
     More details: 
-    <a href="https://drive.google.com/file/d/1xnBdQ3Jdg6CO_c7PpvPs108A_7AWMhb9/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1S04Oe9fFrJbf1kqJnicCyNR4SPg2rV5A/view?usp=sharing">
         <img alt="PDF version CV" src="https://img.shields.io/badge/Curriculum Vitae-PDF-blue.svg">
     </a>
 </p>
