@@ -9,6 +9,20 @@ permalink: /goodreads/
 Interesting Graph and Machine Learning papers
 </p>
 
+
+### Meta Learning
+
+"[MAML- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf)"
+<br>          Finn et al. -<b> ICML 2017</b>.
+<br>
+<br>
+
+"[Reptile-On First-Order Meta-Learning Algorithms](https://arxiv.org/pdf/1803.02999.pdf)"
+<br>          Nichol et al. -<b></b>.
+<br>
+<br>
+
+
 ### Large Scale Machine learning
 
 "[GraphSAINT Graph Sampling Based Inductive Learning Method](www.openreview.net/pdf?id=BJe8pkHFwS)"
