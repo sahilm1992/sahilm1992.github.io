@@ -12,7 +12,7 @@ permalink: /pubs/
 ### Publication
 1. **Sahil Manchanda**, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, and Ambuj Singh "[GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs](https://arxiv.org/abs/1903.03332)", in **[NeurIPS, 2020](https://nips.cc/Conferences/2020/)**.  
 
-2. **Sahil Manchanda** and Ashish Anand "[Representation Learning of Drug and Disease Terms for Drug Repositioning](https://ieeexplore.ieee.org/abstract/document/7985802)" - 3rd IEEE International Conference on Cybernetics.
+2. **Sahil Manchanda** and Ashish Anand "[Representation Learning of Drug and Disease Terms for Drug Repositioning](https://ieeexplore.ieee.org/abstract/document/7985802)" - 3rd IEEE International Conference on Cybernetics, 2017.
 
 
 ### Patent
