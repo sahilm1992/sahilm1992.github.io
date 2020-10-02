@@ -27,5 +27,5 @@ Paper accepted in NeurIPS 2020
 "[GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs](https://arxiv.org/abs/1903.03332)"
 
 
-Joined as a Research Intern in the **Machine learning and optimization Team** at **[NAVER Labs, Europe.**](https://europe.naverlabs.com/research/machine-learning-and-optimization/)
+Joined as a Research Intern in the **Machine learning and optimization Team** at **[NAVER Labs, Europe.](https://europe.naverlabs.com/research/machine-learning-and-optimization/)**
 Research topic: Deep Reinforcement learning for Combinatorial Optimization.
