@@ -20,3 +20,12 @@ My research is focused on learning algorithms for large scale graphs and dynamic
 
 Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse).
 
+
+# <center>News</center>
+Sep 2020 :
+Paper accepted in NeurIPS 2020
+"[GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs](https://arxiv.org/abs/1903.03332)"
+
+Sep 2020
+Joined as a Research Intern at NAVER Labs, Europe.
+Research topic: Deep Reinforcement learning for Combinatorial Optimization.
