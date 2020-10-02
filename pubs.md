@@ -8,15 +8,17 @@ permalink: /pubs/
 <a href = "https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en">Google Scholar</a>
 </p>
 
-### Manuscripts
-
-1.   **Sahil Manchanda**, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, Ambuj Singh "[Learning Heuristics over Large Graphs via Deep Reinforcement Learning](https://arxiv.org/abs/1903.03332)".
-
-2. **Sahil Manchanda**, Arun Rajkumar, Simarjot Kaur, Narayanan Unny "[SUPAID: A Rule mining based method for automatic rollout decision aid for supervisors in fleet management systems](https://arxiv.org/abs/2001.03386)".
 
 ### Publication
-1. **Sahil Manchanda** and Ashish Anand "[Representation Learning of Drug and Disease Terms for Drug Repositioning](https://ieeexplore.ieee.org/abstract/document/7985802)".
+1. **Sahil Manchanda**, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, and Ambuj Singh, "GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs(https://arxiv.org/abs/1903.03332)", in **NeurIPS, 2020**.  
+
+2. **Sahil Manchanda** and Ashish Anand "[Representation Learning of Drug and Disease Terms for Drug Repositioning](https://ieeexplore.ieee.org/abstract/document/7985802)".
     3rd IEEE International Conference on Cybernetics.
+
+
+### Manuscripts
+
+1. **Sahil Manchanda**, Arun Rajkumar, Simarjot Kaur, Narayanan Unny "[SUPAID: A Rule mining based method for automatic rollout decision aid for supervisors in fleet management systems](https://arxiv.org/abs/2001.03386)".
 
 
 ### Patent
