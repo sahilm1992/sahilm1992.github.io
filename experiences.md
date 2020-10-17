@@ -10,7 +10,7 @@ A selection of my <b>experiences</b>.
 
 ## <center>Employments</center>
 
-- **NAVER Labs, France**, September 2020 - Continuing
+- **NAVER Labs, France**, September 2020 - March 2020
   * **Research Intern**, Machine Learning and Optimization
 <br/><br/>
 - **Conduent labs( Former Xerox Research Center)**, Bengaluru, July 2017- Jan 2019
