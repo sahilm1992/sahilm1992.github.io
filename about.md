@@ -6,7 +6,7 @@ permalink: /about/
 
 <p align="center">
     More details: 
-    <a href="https://drive.google.com/file/d/1wcnP3lGS-rjhPeN6aNQVP4LAl1Rtb9sA/view?usp=sharing">
+    <a href="CV_Sahil Manchanda.pdf">
         <img alt="PDF version CV" src="https://img.shields.io/badge/Curriculum Vitae-PDF-blue.svg">
     </a>
 </p>
@@ -20,7 +20,7 @@ My research is focused on learning algorithms for large scale graphs and dynamic
 
 Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse).
 
-Please find my [**CV**](https://drive.google.com/file/d/1wcnP3lGS-rjhPeN6aNQVP4LAl1Rtb9sA/view?usp=sharing).
+Please find my [**CV**](CV_Sahil Manchanda.pdf).
 
 # <center>News</center>
 **Sep 2020:**
