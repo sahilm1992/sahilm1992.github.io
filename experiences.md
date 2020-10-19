@@ -29,6 +29,7 @@ A selection of my <b>experiences</b>.
 - Computer Systems (UG) , IIT Guwahati- 2015
 
 ### Sub/ External Reviewer
+- [EDBT](https://edbticdt2021.cs.ucy.ac.cy/), 2021
 - [AAAI](https://aaai.org/Conferences/AAAI-21/), 2021
 - [WSDM](http://www.wsdm-conference.org/2021/), 2021
 - [CODS-COMAD](https://cods-comad.in/2020/callforpapers.html), 2021 
