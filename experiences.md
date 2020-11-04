@@ -28,6 +28,9 @@ A selection of my <b>experiences</b>.
 - Mathematics for Computer Science (PG), IIT Guwahati- 2016 
 - Computer Systems (UG) , IIT Guwahati- 2015
 
+### Reviewer
+- [TKDE Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69), 2021
+
 ### Sub/ External Reviewer
 - [ICLR](https://iclr.cc/), 2021
 - [EDBT](https://edbticdt2021.cs.ucy.ac.cy/), 2021
