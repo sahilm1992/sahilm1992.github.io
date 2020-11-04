@@ -16,7 +16,7 @@ permalink: /pubs/
 
 
 ### Patent
-1. **Trained Pattern Analyzer for Rollout Decisions"** (Application number 16/375931).
+1. **Trained Pattern Analyzer for Rollout Decisions"** [USPTO](https://patents.google.com/patent/US20200320806A1/).
 Inventors: **Sahil Manchanda**, Arun Rajkumar, Simarjot Kaur and Narayanan Unny.
 
     Status : Under review in US Patent office.
