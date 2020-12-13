@@ -22,7 +22,9 @@ Research Interests:
 #### 2. Learning on large scale graphs/ dynamic graphs
 #### 3. Meta-Learning on graphs.
  
-[Google Scholar profile](https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en) can be visited for more details. 
+ 
+Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en) for more details. 
+
 
 Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse).
 
