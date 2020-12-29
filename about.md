@@ -19,7 +19,7 @@ I am a second-year Ph.D. student working under the supervision of Dr. [Sayan Ran
 
 Research Interests:
 #### 1. Learning Combinatorial algorithms on graphs
-#### 2. Learning on large scale graphs/ dynamic graphs
+#### 2. Learning on large scale / dynamic graphs
 #### 3. Meta-Learning on graphs.
  
  
