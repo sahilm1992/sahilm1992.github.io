@@ -18,9 +18,9 @@ I am a third-year Ph.D. student working under the supervision of Dr. [Sayan Ranu
 
 
 Research Interests:
-#### 1. Learning Combinatorial algorithms on graphs
-#### 2. Learning on large scale / dynamic graphs
-#### 3. Meta-Learning on graphs.
+** 1. Learning Combinatorial algorithms on graphs **
+** 2. Scalable learning on graphs **
+** 3. Few shot learning/ Meta-Learning **
  
  
 Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en) for more details. 
