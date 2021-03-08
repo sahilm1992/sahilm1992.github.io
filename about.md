@@ -43,4 +43,4 @@ Please find my [**CV**](https://drive.google.com/file/d/1wcnP3lGS-rjhPeN6aNQVP4L
 
 * Joined as a Research Intern in the **Machine learning and optimization Team** at **[NAVER Labs, Europe.](https://europe.naverlabs.com/research/machine-learning-and-optimization/)** 
 
-**Research topic**: Deep Reinforcement learning for Combinatorial Optimization.
+    **Research topic**: Deep Reinforcement learning for Combinatorial Optimization.
