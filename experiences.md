@@ -42,6 +42,9 @@ A selection of my <b>experiences</b>.
 - [TKDE Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69), 2020
 - [International Conference on Data Engineering - ICDE](https://www.utdallas.edu/icde/), 2020
 
+### Talks
+- **CODS-COMAD 2020 ** -Learning combinatorial optimization over billion-size graphs.
+ 
 
 ### Miscellaneous
 - **Student Representative ( PG )** - Post Graduate Programme Committee, CSE, IIT Guwahati, 2016-2017
