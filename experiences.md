@@ -43,8 +43,8 @@ A selection of my <b>experiences</b>.
 - [International Conference on Data Engineering - ICDE](https://www.utdallas.edu/icde/), 2020
 
 ### Talks
-- **CODS-COMAD 2020** -Learning combinatorial optimization over billion-size graphs.
-- **ACM ARCS 2021**-Learning combinatorial optimization over billion-size graphs.
+- **CODS-COMAD 2020**
+- **ACM ARCS 2021**
  
 
 ### Miscellaneous
