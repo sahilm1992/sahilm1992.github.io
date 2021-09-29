@@ -38,7 +38,7 @@ Please find my [**CV**](https://drive.google.com/file/d/1wcnP3lGS-rjhPeN6aNQVP4L
 **Sep 2021:**
 
 * Paper accepted in **NeurIPS 2021**
-"NeuroMLR: Robust & Reliable Route Recommendation on Road Networks", in **[NeurIPS, 2021]**. 
+"NeuroMLR: Robust & Reliable Route Recommendation on Road Networks".
 
     Authors: Jayant Jain, Vrittika Bagadia, **Sahil Manchanda** and Sayan Ranu, 
 
