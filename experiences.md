@@ -23,6 +23,7 @@ A selection of my <b>experiences</b>.
 
 ## <center>Teaching Assistant </center>
 
+- Computer Networks (UG+PG), IIT Delhi- 2021
 - Database Management Systems (UG+PG), IIT Delhi- 2021
 - Data Structures and Algorithms (UG), IIT Delhi- 2019, 2020
 - Introduction to Programming (UG) , IIT Guwahati- 2017
@@ -30,6 +31,7 @@ A selection of my <b>experiences</b>.
 - Computer Systems (UG) , IIT Guwahati- 2015
 
 ### Reviewer
+- [WSDM 2022](https://www.wsdm-conference.org/2022/), 2022
 - [TKDD Journal](https://dl.acm.org/journal/tkdd), 2021
 
 ### Sub/ External Reviewer
