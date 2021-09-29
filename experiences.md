@@ -31,7 +31,7 @@ A selection of my <b>experiences</b>.
 - Computer Systems (UG) , IIT Guwahati- 2015
 
 ### Reviewer
-- [WSDM 2022](https://www.wsdm-conference.org/2022/), 2022
+- [WSDM](https://www.wsdm-conference.org/2022/), 2022
 - [TKDD Journal](https://dl.acm.org/journal/tkdd), 2021
 
 ### Sub/ External Reviewer
