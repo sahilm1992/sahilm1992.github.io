@@ -38,7 +38,12 @@ Please find my [**CV**](https://drive.google.com/file/d/1wcnP3lGS-rjhPeN6aNQVP4L
 **Sep 2020:**
 
 * Paper accepted in **NeurIPS 2020**
+"NeuroMLR: Robust & Reliable Route Recommendation on Road Networks", in **[NeurIPS, 2021]**. 
+Authors: Jayant Jain, Vrittika Bagadia, **Sahil Manchanda** and Sayan Ranu, 
+
+* Paper accepted in **NeurIPS 2020**
 "[GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs](https://arxiv.org/abs/1903.03332)"
+Authors:  **Sahil Manchanda**, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, and Ambuj Singh 
 
 
 * Joined as a Research Intern in the **Machine learning and optimization Team** at **[NAVER Labs, Europe.](https://europe.naverlabs.com/research/machine-learning-and-optimization/)** 
