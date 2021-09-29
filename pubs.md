@@ -10,7 +10,7 @@ permalink: /pubs/
 
 
 ### Publications
-1. Jayant Jain, Vrittika Bagadia, **Sahil Manchanda** and Sayan Ranu, "NeuroMLR: Robust & Reliable Route Recommendation on Road Networks", in **[NeurIPS, 2021]**. 
+1. Jayant Jain, Vrittika Bagadia, **Sahil Manchanda** and Sayan Ranu, "NeuroMLR: Robust & Reliable Route Recommendation on Road Networks", in **[NeurIPS, 2021](https://nips.cc/Conferences/2021/)**.  
 
 2. **Sahil Manchanda**, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, and Ambuj Singh "[GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs](https://arxiv.org/abs/1903.03332)", in **[NeurIPS, 2020](https://nips.cc/Conferences/2020/)**.  
 
