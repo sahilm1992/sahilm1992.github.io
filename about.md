@@ -37,22 +37,16 @@ Please find my [**CV**](https://drive.google.com/file/d/1wcnP3lGS-rjhPeN6aNQVP4L
 # <center>News</center>
 **Nov 2021:**
 * Paper accepted in **AAAI 2022**
-"TIGGER: Scalable Generative Modelling for Temporal Interaction Graphs".
-
-Authors: Shubham Gupta, **Sahil Manchanda**, Srikanta Bedathur and Sayan Ranu
+"TIGGER: Scalable Generative Modelling for Temporal Interaction Graphs".  Shubham Gupta, **Sahil Manchanda**, Srikanta Bedathur and Sayan Ranu
 
 **Sep 2021:**
 * Paper accepted in **NeurIPS 2021**
-"NeuroMLR: Robust & Reliable Route Recommendation on Road Networks".
-Authors : Jayant Jain, Vrittika Bagadia, **Sahil Manchanda** and Sayan Ranu
+"NeuroMLR: Robust & Reliable Route Recommendation on Road Networks".  Jayant Jain, Vrittika Bagadia, **Sahil Manchanda** and Sayan Ranu
 
 **Sep 2020:**
 
 * Paper accepted in **NeurIPS 2020**
-"[GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs](https://arxiv.org/abs/1903.03332)"
-
-
-Authors:  **Sahil Manchanda**, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, and Ambuj Singh 
+"[GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs](https://arxiv.org/abs/1903.03332)" .  **Sahil Manchanda**, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, and Ambuj Singh 
 
 
 * Joined as a Research Intern in the **Machine learning and optimization Team** at **[NAVER Labs, Europe.](https://europe.naverlabs.com/research/machine-learning-and-optimization/)** 
