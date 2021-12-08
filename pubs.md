@@ -10,11 +10,13 @@ permalink: /pubs/
 
 
 ### Publications
-1. Jayant Jain, Vrittika Bagadia, **Sahil Manchanda** and Sayan Ranu, "NeuroMLR: Robust & Reliable Route Recommendation on Road Networks", in **[NeurIPS, 2021](https://nips.cc/Conferences/2021/)**.  
+1. Shubham Gupta, **Sahil Manchanda**, Srikanta Bedathur and Sayan Ranu, "TIGGER: Scalable Generative Modelling for Temporal Interaction Graphs", in **AAAI 2022**
 
-2. **Sahil Manchanda**, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, and Ambuj Singh "[GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs](https://arxiv.org/abs/1903.03332)", in **[NeurIPS, 2020](https://nips.cc/Conferences/2020/)**.  
+2. Jayant Jain, Vrittika Bagadia, **Sahil Manchanda** and Sayan Ranu, "NeuroMLR: Robust & Reliable Route Recommendation on Road Networks", in **[NeurIPS, 2021](https://nips.cc/Conferences/2021/)**.  
 
-3. **Sahil Manchanda** and Ashish Anand "[Representation Learning of Drug and Disease Terms for Drug Repositioning](https://ieeexplore.ieee.org/abstract/document/7985802)" - 3rd IEEE International Conference on Cybernetics, 2017.
+3. **Sahil Manchanda**, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, and Ambuj Singh "[GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs](https://arxiv.org/abs/1903.03332)", in **[NeurIPS, 2020](https://nips.cc/Conferences/2020/)**.  
+
+4. **Sahil Manchanda** and Ashish Anand "[Representation Learning of Drug and Disease Terms for Drug Repositioning](https://ieeexplore.ieee.org/abstract/document/7985802)" - 3rd IEEE International Conference on Cybernetics, 2017.
 
 
 ### Patent
