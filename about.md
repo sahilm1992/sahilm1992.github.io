@@ -36,7 +36,7 @@ Please find my [**CV**](https://drive.google.com/file/d/1wcnP3lGS-rjhPeN6aNQVP4L
 
 # <center>News</center>
 **Jan 2022:**
-* Server as PC member in **Applied Data Science Track in KDD 2022**
+* Serving as PC member in **Applied Data Science Track in KDD 2022**
 
 
 
