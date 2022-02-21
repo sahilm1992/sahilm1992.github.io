@@ -30,9 +30,16 @@ A selection of my <b>experiences</b>.
 - Mathematics for Computer Science (PG), IIT Guwahati- 2016 
 - Computer Systems (UG) , IIT Guwahati- 2015
 
+
+### PC Member
+- [KDD 2022 ADS Track](https://www.kdd.org/kdd2022/), 2022
+
 ### Reviewer
 - [WSDM](https://www.wsdm-conference.org/2022/), 2022
 - [TKDD Journal](https://dl.acm.org/journal/tkdd), 2021
+- [TKDE Journal](https://dl.acm.org/journal/tkde), 2021
+- [AISTATS](http://aistats.org/aistats2022/), 2022
+
 
 ### Sub/ External Reviewer
 - [CIKM](https://www.cikm2021.org/) 2021
