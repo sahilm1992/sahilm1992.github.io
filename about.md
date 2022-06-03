@@ -20,10 +20,12 @@ I am a Ph.D. student working under the supervision of Dr. [Sayan Ranu](http://ww
 Research Interests:
 
    **1. Learning Combinatorial algorithms on graphs**
+   
+   **2. Learning to Solve Mixed Integer Programs**
 
-   **2. Scalable learning on graphs**
+   **3. Scalable learning on graphs**
 
-   **3. Few shot learning/ Meta-Learning**
+   **4. Few shot learning/ Meta-Learning**
  
  <br>
  
