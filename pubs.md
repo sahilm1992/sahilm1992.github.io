@@ -19,7 +19,7 @@ permalink: /pubs/
 4. **Sahil Manchanda** and Ashish Anand "[Representation Learning of Drug and Disease Terms for Drug Repositioning](https://ieeexplore.ieee.org/abstract/document/7985802)" - 3rd IEEE International Conference on Cybernetics, 2017.
 
 ### Arxiv
-1. **Sahil Manchanda**, Sofia Michel, Darko Drakulic, Jean-Marc Andreoli  "On the Generalization of Neural Combinatorial Optimization Heuristics" , https://arxiv.org/abs/2206.00787, 2022
+1. **Sahil Manchanda**, Sofia Michel, Darko Drakulic, Jean-Marc Andreoli  "On the Generalization of Neural Combinatorial Optimization Heuristics" , (https://arxiv.org/abs/2206.00787), 2022
 
 ### Patent
 1. **Trained Pattern Analyzer for Rollout Decisions"** [USPTO](https://patents.google.com/patent/US20200320806A1/).
