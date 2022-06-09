@@ -37,6 +37,12 @@ Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learn
 Please find my [**CV**](https://github.com/sahilm1992/sahilm1992.github.io/blob/master/CV_Sahil%20Manchanda.pdf).
 
 # <center>News</center>
+**May 2022**
+* US Patent Granted **Trained Pattern Analyzer for Rollout Decisions"** [USPTO](https://patents.google.com/patent/US20200320806A1/).
+Inventors: **Sahil Manchanda**, Arun Rajkumar, Simarjot Kaur and Narayanan Unny.*
+
+
+
 **Jan 2022:**
 * Serving as PC member in **Applied Data Science Track in KDD 2022**
 
