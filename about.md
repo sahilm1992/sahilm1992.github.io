@@ -38,8 +38,10 @@ Please find my [**CV**](https://github.com/sahilm1992/sahilm1992.github.io/blob/
 
 # <center>News</center>
 **May 2022**
-* US Patent Granted **Trained Pattern Analyzer for Rollout Decisions"** [USPTO](https://patents.google.com/patent/US20200320806A1/).
-Inventors: **Sahil Manchanda**, Arun Rajkumar, Simarjot Kaur and Narayanan Unny.*
+* US Patent Granted 
+
+**Trained Pattern Analyzer for Rollout Decisions"** [USPTO](https://patents.google.com/patent/US20200320806A1/).
+Inventors: **Sahil Manchanda**, Arun Rajkumar, Simarjot Kaur and Narayanan Unny. *
 
 
 
