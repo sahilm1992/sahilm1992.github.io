@@ -37,6 +37,10 @@ Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learn
 Please find my [**CV**](https://github.com/sahilm1992/sahilm1992.github.io/blob/master/CV_Sahil%20Manchanda.pdf).
 
 # <center>News</center>
+**June 2022** Received Qualcomm Innovaition Fellowship(QIF)**
+
+
+
 **June 2022** Paper accepted in ECML-PKDD 2022
 
 **Sahil Manchanda**, Sofia Michel, Darko Drakulic, Jean-Marc Andreoli  "On the Generalization of Neural Combinatorial Optimization Heuristics" , **[ECML-PKDD](https://2022.ecmlpkdd.org/)** 2022. **[PrePrint](https://arxiv.org/abs/2206.00787)**
