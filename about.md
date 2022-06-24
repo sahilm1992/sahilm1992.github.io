@@ -37,7 +37,7 @@ Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learn
 Please find my [**CV**](https://github.com/sahilm1992/sahilm1992.github.io/blob/master/CV_Sahil%20Manchanda.pdf).
 
 # <center>News</center>
-**June 2022** Received Qualcomm Innovaition Fellowship(QIF)**
+**June 2022** **Received Qualcomm Innovaition Fellowship(QIF)**
 
 
 
