@@ -43,7 +43,7 @@ Please find my [**CV**](https://github.com/sahilm1992/sahilm1992.github.io/blob/
 **June 2022:** Paper accepted in ECML-PKDD 2022. **[PrePrint](https://arxiv.org/abs/2206.00787)**
 
 
-**May 2022:** * US Patent Granted  **Trained Pattern Analyzer for Rollout Decisions"** [USPTO](https://patents.google.com/patent/US20200320806A1/).
+**May 2022:**  US Patent Granted  **Trained Pattern Analyzer for Rollout Decisions"** [USPTO](https://patents.google.com/patent/US20200320806A1/).
  
 **Jan 2022:**  Serving as PC member in **Applied Data Science Track in KDD 2022**
 
