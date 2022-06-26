@@ -36,7 +36,7 @@ Please visit my [Google Scholar profile](https://scholar.google.com/citations?us
 
 
 # <center>News</center>
-**June 2022:** **Received Qualcomm Innovaition Fellowship(QIF) for 2022-2023**
+**June 2022:** **Received Qualcomm Innovation Fellowship(QIF) for 2022-2023**
 
 
 **June 2022:** Paper accepted in ECML-PKDD 2022. **[PrePrint](https://arxiv.org/abs/2206.00787)**
@@ -44,16 +44,16 @@ Please visit my [Google Scholar profile](https://scholar.google.com/citations?us
 
 **May 2022:**  US Patent Granted  **Trained Pattern Analyzer for Rollout Decisions"** [USPTO](https://patents.google.com/patent/US20200320806A1/).
  
-**Jan 2022:**  Serving as PC member in **Applied Data Science Track in KDD 2022**
+**Jan 2022:**  Serving as PC member in **Applied Data Science Track in KDD 2022** 
 
 
-**Nov 2021:**  Paper accepted in **AAAI 2022**
+**Nov 2021:**  [Paper](https://onedrive.live.com/?cid=ef92560ae8680184&id=EF92560AE8680184!155127&authkey=!AE9r-D0bAPQg4q4) accepted in **AAAI 2022**
 
 
-**Sep 2021:**  Paper accepted in **NeurIPS 2021**
+**Sep 2021:**  [Paper](https://proceedings.neurips.cc/paper/2021/file/b922ede9c9eb9eabec1c1fecbdecb45d-Paper.pdf) accepted in **NeurIPS 2021**
 
 
-**Sep 2020:**  Paper accepted in **NeurIPS 2020**
+**Sep 2020:**  [Paper](https://arxiv.org/abs/1903.03332) accepted in **NeurIPS 2020**
 
 
 **Sep 2020:** Joined as a Research Intern in the **Machine learning and optimization Team** at **[NAVER Labs, Europe.](https://europe.naverlabs.com/research/machine-learning-and-optimization/)** 
