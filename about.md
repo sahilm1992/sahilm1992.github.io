@@ -37,39 +37,25 @@ Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learn
 Please find my [**CV**](https://github.com/sahilm1992/sahilm1992.github.io/blob/master/CV_Sahil%20Manchanda.pdf).
 
 # <center>News</center>
-**June 2022** **Received Qualcomm Innovaition Fellowship(QIF)**
+**June 2022: ** **Received Qualcomm Innovaition Fellowship(QIF) for 2022-2023**
 
 
+**June 2022: ** Paper accepted in ECML-PKDD 2022. **[PrePrint](https://arxiv.org/abs/2206.00787)**
 
-**June 2022** Paper accepted in ECML-PKDD 2022
 
-**Sahil Manchanda**, Sofia Michel, Darko Drakulic, Jean-Marc Andreoli  "On the Generalization of Neural Combinatorial Optimization Heuristics" , **[ECML-PKDD](https://2022.ecmlpkdd.org/)** 2022. **[PrePrint](https://arxiv.org/abs/2206.00787)**
-
-**May 2022**
-* US Patent Granted  **Trained Pattern Analyzer for Rollout Decisions"** [USPTO](https://patents.google.com/patent/US20200320806A1/).
+**May 2022: ** * US Patent Granted  **Trained Pattern Analyzer for Rollout Decisions"** [USPTO](https://patents.google.com/patent/US20200320806A1/).
  
- Inventors: **Sahil Manchanda**, Arun Rajkumar, Simarjot Kaur and Narayanan Unny.
+**Jan 2022:**  Serving as PC member in **Applied Data Science Track in KDD 2022**
 
 
-**Jan 2022:**
-* Serving as PC member in **Applied Data Science Track in KDD 2022**
+**Nov 2021:**  Paper accepted in **AAAI 2022**
 
 
-
-**Nov 2021:**
-* Paper accepted in **AAAI 2022**
-"TIGGER: Scalable Generative Modelling for Temporal Interaction Graphs".  Shubham Gupta, **Sahil Manchanda**, Srikanta Bedathur and Sayan Ranu
-
-**Sep 2021:**
-* Paper accepted in **NeurIPS 2021**
-"NeuroMLR: Robust & Reliable Route Recommendation on Road Networks".  Jayant Jain, Vrittika Bagadia, **Sahil Manchanda** and Sayan Ranu
-
-**Sep 2020:**
-
-* Paper accepted in **NeurIPS 2020**
-"[GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs](https://arxiv.org/abs/1903.03332)" .  **Sahil Manchanda**, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, and Ambuj Singh 
+**Sep 2021:**  Paper accepted in **NeurIPS 2021**
 
 
-* Joined as a Research Intern in the **Machine learning and optimization Team** at **[NAVER Labs, Europe.](https://europe.naverlabs.com/research/machine-learning-and-optimization/)** 
+**Sep 2020:**  Paper accepted in **NeurIPS 2020**
 
-    **Research topic**: Deep Reinforcement learning for Combinatorial Optimization.
+
+**Sep 2020:** Joined as a Research Intern in the **Machine learning and optimization Team** at **[NAVER Labs, Europe.](https://europe.naverlabs.com/research/machine-learning-and-optimization/)** 
+
