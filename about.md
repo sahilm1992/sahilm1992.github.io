@@ -23,7 +23,7 @@ Research Interests:
    **2. Learning to Solve Mixed Integer Programs**
    **3. Scalable learning on graphs**
    **4. Few shot learning/ Meta-Learning**
- 
+  
  <br>
  
 Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse).
