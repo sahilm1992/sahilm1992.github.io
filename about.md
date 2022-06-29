@@ -21,7 +21,9 @@ Research Interests:
 
    **1. Learning Combinatorial algorithms on graphs**   
    **2. Learning to Solve Mixed Integer Programs**
+   
    **3. Scalable learning on graphs**
+   
    **4. Few shot learning/ Meta-Learning**
   
  <br>
