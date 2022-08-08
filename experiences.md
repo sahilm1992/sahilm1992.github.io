@@ -33,6 +33,7 @@ A selection of my <b>experiences</b>.
 
 ### PC Member
 - [KDD 2022 ADS Track](https://www.kdd.org/kdd2022/), 2022
+- [AAAI 2023](aaai.org/), 2023
 
 ### Reviewer
 - [WSDM](https://www.wsdm-conference.org/2022/), 2022
