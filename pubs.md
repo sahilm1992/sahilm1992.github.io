@@ -29,7 +29,7 @@ Inventors: **Sahil Manchanda**, Arun Rajkumar, Simarjot Kaur and Narayanan Unny.
 Status : Granted 2022: USPTO
 
 ### Preprints
-1. **Sahil Manchanda** and Sayan Ranu "[Lifelong Learning for Neural powered Mixed Integer Programming](https://arxiv.org/abs/1903.03332)".
+1. **Sahil Manchanda** and Sayan Ranu "[Lifelong Learning for Neural powered Mixed Integer Programming](https://arxiv.org/abs/2208.12226)".
 
 2. Vaibhav Bihani, **Sahil Manchanda**, Sayan Ranu and N. M. Anoop Krishnan "[Unsupervised Graph Neural Network Reveals the Structure--Dynamics Correlation in Disordered Systems](https://arxiv.org/abs/2206.12575)".
 
