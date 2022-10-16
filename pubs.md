@@ -29,6 +29,12 @@ Inventors: **Sahil Manchanda**, Arun Rajkumar, Simarjot Kaur and Narayanan Unny.
 
     Status : Granted 2022: USPTO
 
+### Preprints
+1. **Sahil Manchanda** and Sayan Ranu "[Lifelong Learning for Neural powered Mixed Integer Programming](https://arxiv.org/abs/1903.03332)".
+
+2. Vaibhav Bihani, **Sahil Manchanda**, Sayan Ranu, N. M. Anoop Krishnan "[Unsupervised Graph Neural Network Reveals the Structure--Dynamics Correlation in Disordered Systems](https://arxiv.org/abs/2206.12575)".
+
+
 ### Manuscript
 
 1. **Sahil Manchanda**, Arun Rajkumar, Simarjot Kaur, Narayanan Unny "[SUPAID: A Rule mining based method for automatic rollout decision aid for supervisors in fleet management systems](https://arxiv.org/abs/2001.03386)".
