@@ -13,9 +13,9 @@ permalink: /pubs/
 
 1. **Sahil Manchanda**, Sofia Michel, Darko Drakulic, Jean-Marc Andreoli  "On the Generalization of Neural Combinatorial Optimization Heuristics" , **[ECML-PKDD](https://2022.ecmlpkdd.org/)** 2022. **[PrePrint](https://arxiv.org/abs/2206.00787)**
  
-2. Shubham Gupta, **Sahil Manchanda**, Srikanta Bedathur and Sayan Ranu, "TIGGER: Scalable Generative Modelling for Temporal Interaction Graphs", in **AAAI 2022**
+2. Shubham Gupta, **Sahil Manchanda**, Srikanta Bedathur and Sayan Ranu, ["TIGGER: Scalable Generative Modelling for Temporal Interaction Graphs"](https://arxiv.org/abs/2203.03564), in **AAAI 2022**
 
-3. Jayant Jain, Vrittika Bagadia, **Sahil Manchanda** and Sayan Ranu, "NeuroMLR: Robust & Reliable Route Recommendation on Road Networks", in **[NeurIPS, 2021](https://nips.cc/Conferences/2021/)**.  
+3. Jayant Jain, Vrittika Bagadia, **Sahil Manchanda** and Sayan Ranu, ["NeuroMLR: Robust & Reliable Route Recommendation on Road Networks"](https://proceedings.neurips.cc/paper/2021/file/b922ede9c9eb9eabec1c1fecbdecb45d-Paper.pdf) , in **[NeurIPS, 2021](https://nips.cc/Conferences/2021/)**.  
 
 4. **Sahil Manchanda**, Akash Mittal, Anuj Dhawan, Sourav Medya, Sayan Ranu, and Ambuj Singh "[GCOMB: Learning Budget-constrained Combinatorial Algorithms over Billion-sized Graphs](https://arxiv.org/abs/1903.03332)", in **[NeurIPS, 2020](https://nips.cc/Conferences/2020/)**.  
 
@@ -32,7 +32,7 @@ Inventors: **Sahil Manchanda**, Arun Rajkumar, Simarjot Kaur and Narayanan Unny.
 ### Preprints
 1. **Sahil Manchanda** and Sayan Ranu "[Lifelong Learning for Neural powered Mixed Integer Programming](https://arxiv.org/abs/1903.03332)".
 
-2. Vaibhav Bihani, **Sahil Manchanda**, Sayan Ranu, N. M. Anoop Krishnan "[Unsupervised Graph Neural Network Reveals the Structure--Dynamics Correlation in Disordered Systems](https://arxiv.org/abs/2206.12575)".
+2. Vaibhav Bihani, **Sahil Manchanda**, Sayan Ranu and N. M. Anoop Krishnan "[Unsupervised Graph Neural Network Reveals the Structure--Dynamics Correlation in Disordered Systems](https://arxiv.org/abs/2206.12575)".
 
 
 ### Manuscript
