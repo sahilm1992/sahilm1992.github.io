@@ -11,7 +11,7 @@ permalink: /pubs/
 
 ### Publications
 
-1. **Sahil Manchanda**, Sofia Michel, Darko Drakulic, Jean-Marc Andreoli  "On the Generalization of Neural Combinatorial Optimization Heuristics" , **[ECML-PKDD](https://2022.ecmlpkdd.org/)** 2022. **[PrePrint](https://arxiv.org/abs/2206.00787)**
+1. **Sahil Manchanda**, Sofia Michel, Darko Drakulic, Jean-Marc Andreoli  ["On the Generalization of Neural Combinatorial Optimization Heuristics"](https://arxiv.org/abs/2206.00787) , **[ECML-PKDD](https://2022.ecmlpkdd.org/)** 2022. 
  
 2. Shubham Gupta, **Sahil Manchanda**, Srikanta Bedathur and Sayan Ranu, ["TIGGER: Scalable Generative Modelling for Temporal Interaction Graphs"](https://arxiv.org/abs/2203.03564), in **AAAI 2022**
 
