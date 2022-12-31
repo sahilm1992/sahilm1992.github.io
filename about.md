@@ -14,7 +14,7 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a Ph.D. student working under the supervision of Dr. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) in the Department of Computer Science and Engineering at [IIT Delhi](https://cse.iitd.ac.in).
+I am a Ph.D. student(Qualcomm PhD Fellow0 working under the supervision of Dr. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) in the Department of Computer Science and Engineering at [IIT Delhi](https://cse.iitd.ac.in).
 
 
 Research Interests:
@@ -27,7 +27,7 @@ Research Interests:
 Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse). Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en) for more details. 
 
 # <center>News</center>
-**Dec 2022:** **University of Tokyo: Worked as a visiting research in Graph Neural Networks under the supervision of Prof. Toyotaro Suzumura at the University of Tokyo, Japan**
+**Dec 2022:** **University of Tokyo: Worked as a visiting researcher in the area of Graph condensation for Grap Neural Networks under the supervision of Prof. Toyotaro Suzumura at the University of Tokyo, Japan**
 
 
 **Nov 2022:** **Paper accepted AAAI 2023: Lifelong Learning to solve Mixed Integer Programs**
