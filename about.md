@@ -27,6 +27,10 @@ Research Interests:
 Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse). Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en) for more details. 
 
 # <center>News</center>
+
+
+**Jan 2023:** **ORAL : Our AAAI paper : Lifelong Learning to solve Mixed Integer Programs is selected for oral presentation.**
+
 **Dec 2022:** **University of Tokyo: Worked as a visiting researcher in the area of Graph condensation for Graph Neural Networks under the supervision of Prof. Toyotaro Suzumura at the University of Tokyo, Japan**
 
 
