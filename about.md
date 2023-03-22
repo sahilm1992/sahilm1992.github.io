@@ -28,7 +28,7 @@ Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learn
 
 # <center>News</center>
 
-**March 2023:** **Outstanding Teaching Assistanship Award: Computer Networks course(UG + PG) at IIT Delhi 2022.** 
+**March 2023:** **Outstanding Teaching Assistanship Award for Computer Networks course(UG + PG) at IIT Delhi 2022.** 
 
 **Jan 2023:** **Oral at AAAI : Our AAAI paper : Lifelong Learning to solve Mixed Integer Programs is selected for oral presentation.**
 
