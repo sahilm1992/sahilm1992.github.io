@@ -5,7 +5,8 @@ permalink: /awards/
 ---
 
 **Achievements**
-🏆 **Outstanding Teaching Assistanship Award: Computer Networks course(UG + PG) at IIT Delhi 2022**
+
+🏆 **Outstanding Teaching Assistanship Award for Computer Networks course(UG + PG) at IIT Delhi 2022**
 <br/> <br/>
 🏆 **Qualcomm Innovation Fellowship(QIF) Winner 2022**
 <br/> <br/>
