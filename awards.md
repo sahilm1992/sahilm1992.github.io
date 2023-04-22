@@ -5,9 +5,9 @@ permalink: /awards/
 ---
 
 **Achievements**
+
 🏆 **Among 100 computer science researchers worldwide invited to attend the prestigious 10th Heidelberg Laureate Forum 2023.**
 <br/> <br/>
-
 🏆 **Outstanding Teaching Assistanship Award for Computer Networks course(UG + PG) at IIT Delhi 2022**
 <br/> <br/>
 🏆 **Qualcomm Innovation Fellowship(QIF) Winner 2022**
