@@ -28,6 +28,8 @@ Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learn
 
 # <center>News</center>
 
+**April 2023:** **Selected for attending HLF: Was one of the 200 young researchers selected across the globe to attend the [Heidelberg Laureate Forum](heidelberg-laureate-forum.org/) in Germany in 2023** 
+
 **March 2023:** **Outstanding Teaching Assistanship Award for Computer Networks course(UG + PG) at IIT Delhi 2022.** 
 
 **Jan 2023:** **Oral at AAAI : Our AAAI paper : Lifelong Learning to solve Mixed Integer Programs is selected for oral presentation.**
