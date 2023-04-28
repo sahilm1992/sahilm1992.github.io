@@ -11,12 +11,11 @@ permalink: /pubs/
 
 ### Publications
 
-1. GRAFENNE: Continual learning on Graphs with Heterogeneous and Dynamic Feature Sets
-  Shubham Gupta\*, Sahil Manchanda\*, Sayan Ranu and Srikanta Bedathur in **ICML 2023**.
-   \*Joint authorship
+1. Shubham Gupta\*, Sahil Manchanda\*, Sayan Ranu and Srikanta Bedathur "GRAFENNE: Continual learning on Graphs with Heterogeneous and Dynamic Feature Sets"  in **ICML 2023**.
 
-2.StriderNet: A Graph Reinforcement Learning Approach to Optimize Atomic Structures on Rough Energy Landscapes
- Vaibhav Bihani, **Sahil Manchanda**, Srikant Sastry, Sayan Ranu and Anoop Krishnan **ICML 2023**.
+\*Joint authorship
+
+2. **Sahil Manchanda**, Srikant Sastry, Sayan Ranu and Anoop Krishnan "StriderNet: A Graph Reinforcement Learning Approach to Optimize Atomic Structures on Rough Energy Landscapes Vaibhav Bihani" **ICML 2023**.
 
 3. **Sahil Manchanda** and Sayan Ranu "[Lifelong Learning to solve Mixed Integer Programs](https://arxiv.org/abs/2208.12226)". in **AAAI 2023**. 
 
