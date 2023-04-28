@@ -13,9 +13,7 @@ permalink: /pubs/
 
 1. GRAFENNE: Continual learning on Graphs with Heterogeneous and Dynamic Feature Sets
   Shubham Gupta*, Sahil Manchanda*, Sayan Ranu and Srikanta Bedathur in **ICML 2023**.
-* Joint authorship
-
-
+   * Joint authorship
 
 2.StriderNet: A Graph Reinforcement Learning Approach to Optimize Atomic Structures on Rough Energy Landscapes
  Vaibhav Bihani, **Sahil Manchanda**, Srikant Sastry, Sayan Ranu and Anoop Krishnan **ICML 2023**.
