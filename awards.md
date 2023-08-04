@@ -5,7 +5,8 @@ permalink: /awards/
 ---
 
 **Achievements**
-
+🏆 **Outstanding Teaching Assistanship Award for Graph Neural Networks(UG + PG) + Database Systems course (UG + PG) at IIT Delhi 2023**
+<br/> <br/>
 🏆 **Among 100 computer science researchers worldwide invited to attend the prestigious 10th Heidelberg Laureate Forum 2023.**
 <br/> <br/>
 🏆 **Outstanding Teaching Assistanship Award for Computer Networks course(UG + PG) at IIT Delhi 2022**
