@@ -28,6 +28,8 @@ Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learn
 
 # <center>News</center>
 
+**Nov 2023:**:**Paper Accepted in Learning on Graphs Conference(LOG 2023)**
+
 **June 2023:**: **Outstanding Teaching Assistanship Award for Database Systems course (UG + PG) at IIT Delhi 2023**
  
 
