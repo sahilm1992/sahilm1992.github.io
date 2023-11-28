@@ -59,6 +59,8 @@ A selection of my <b>experiences</b>.
 - [International Conference on Data Engineering - ICDE](https://www.utdallas.edu/icde/), 2020
 
 ### Talks
+- **Heidelerg Laureate Forum, Germany 2023**
+- **NAVER LABS, France 2022**
 - **CODS-COMAD 2020**
 - **ACM ARCS 2021**
  
