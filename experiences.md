@@ -9,7 +9,9 @@ A selection of my <b>experiences</b>.
 </p>
 
 ## <center>Employments</center>
-
+- **Qualcomm AI Research, Amsterdam**, June 2023 - Oct 2023
+  * **Research Intern**, Machine Learning and Combinatorial Optimization
+<br/><br/>
 - **NAVER Labs, France**, September 2020 - March 2021
   * **Research Intern**, Machine Learning and Optimization
 <br/><br/>
@@ -36,6 +38,7 @@ A selection of my <b>experiences</b>.
 - [AAAI 2023](aaai.org/), 2023
 
 ### Reviewer
+- [ICLR](https://iclr.cc/), 2023
 - [WSDM](https://www.wsdm-conference.org/2022/), 2022
 - [TKDD Journal](https://dl.acm.org/journal/tkdd), 2021
 - [TKDE Journal](https://dl.acm.org/journal/tkde), 2021
