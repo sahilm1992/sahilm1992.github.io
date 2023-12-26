@@ -5,6 +5,7 @@ permalink: /awards/
 ---
 
 **Achievements**
+
 🏆 **Outstanding Reviewer Award at ACM CODS COMAD 2024. Rewarded to top 3 out of 49 reviewers**
 
 🏆 **Outstanding Teaching Assistanship Award for Database Systems + Graph Neural Networks course (UG + PG) at IIT Delhi 2023**
