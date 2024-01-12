@@ -6,7 +6,7 @@ permalink: /about/
 
 <p align="center">
     
-    <a href="https://github.com/sahilm1992/sahilm1992.github.io/blob/master/CV_Sahil%20Manchanda.pdf">
+    <a href="https://drive.google.com/file/d/13LivGxhWwQA3gwhVh9jT6vqB58VL6sfa/view?usp=drivesdk)">
         <img alt="PDF version CV" src="https://img.shields.io/badge/Curriculum Vitae-PDF-blue.svg">
     </a>
 </p>
