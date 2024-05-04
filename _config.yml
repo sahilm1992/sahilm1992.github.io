@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/IMG_20190527_133741.jpg"
+avatar: "/img/final.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -44,9 +44,9 @@ avatar: "/img/IMG_20190527_133741.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: <a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ0OTI4OA==' border='0' alt='logo creation'></a><BR><a href='https://www.glowgraphics.co.uk/'>Sahil Manchanda</a>
-  email: "sahilm1992@gmail.com"
-  facebook: sahilm1992
-  github: sahilm1992
+  email: "prshnttkmr@gmail.com"
+  facebook: prashant0305
+  github: prashkmr
   
 # Select which links to show in the footer
 footer-links-active:
