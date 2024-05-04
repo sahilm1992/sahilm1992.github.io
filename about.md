@@ -24,7 +24,7 @@ Research Interests:
    **3. Point Clouds**   
    **4. Geometric Deep Learning**
  <br>
-Prior to joining IIT Delhi, I worked as a Research Associate in the Machine learning Group at Indian Institute of Science, Bangalore advised by Prof. [Chiranjib bhattacharyya]([http://iitg.ernet.in/cse](https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/)). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse). Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=9oW4S-8AAAAJ&hl=en) for more details. 
+Prior to joining IIT Delhi, I worked as a Research Associate in the [Machine learning Group](https://mllab.csa.iisc.ac.in/) at [Indian Institute of Science](https://iisc.ac.in/), Bangalore advised by Prof. [Chiranjib Bhattacharyya]([http://iitg.ernet.in/cse](https://eecs.iisc.ac.in/people/chiranjib-bhattacharyya/)). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse). Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=9oW4S-8AAAAJ&hl=en) for more details. 
 
 
 
