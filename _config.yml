@@ -43,7 +43,7 @@ avatar: "/img/final.jpeg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: <a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ0OTI4OA==' border='0' alt='logo creation'></a><BR><a href='https://www.glowgraphics.co.uk/'>Sahil Manchanda</a>
+  name: <a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ0OTI4OA==' border='0' alt='logo creation'></a><BR><a href='https://www.glowgraphics.co.uk/'>Prashant Kumar</a>
   email: "prashantk.nan@gmail.com"
   linkedin: "imprashantk"
   github: prashkmr
@@ -57,7 +57,7 @@ footer-links-active:
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
