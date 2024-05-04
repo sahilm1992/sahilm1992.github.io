@@ -14,7 +14,7 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a Ph.D. student working under the supervision of Dr. [Prem Kumar Kalra](http://www.cse.iitd.ac.in/~sayan/) in the Department of Computer Science and Engineering at [IIT Delhi](https://cse.iitd.ac.in).
+I am a Ph.D. student working under the supervision of Dr. [Prem Kumar Kalra](http://www.cse.iitd.ac.in/~sayan/) at the School of Information Technology at [IIT Delhi](https://cse.iitd.ac.in).
 
 
 Research Interests:
