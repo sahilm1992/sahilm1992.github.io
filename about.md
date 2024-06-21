@@ -14,7 +14,7 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a Research Scientist at [PocketFM](https://pocketfm.com/) in the Data Science Team. Prior to joining PocketFM I worked as a Ph.D. student(Qualcomm PhD Fellow) under the supervision of Dr. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) in the Department of Computer Science and Engineering at [IIT Delhi](https://cse.iitd.ac.in).
+I am a Research Scientist at [PocketFM](https://pocketfm.com/) in the Data Science Team. Prior to joining PocketFM I worked as a Ph.D. scholar(Qualcomm PhD Fellow) under the supervision of Dr. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) in the Department of Computer Science and Engineering at [IIT Delhi](https://cse.iitd.ac.in).
 
 
 Research Interests:
