@@ -11,15 +11,15 @@ permalink: /pubs/
 
 ### Publications
 
-Rishi Rajesh Shah\*, Krishnanshu Jain\*, **Sahil Manchanda\***, Sourav Medya and Sayan Ranu, "NeuroCut: A Neural Approach for Robust Graph Partitioning", in KDD, 2024.
+Rishi Rajesh Shah\*, Krishnanshu Jain\*, **Sahil Manchanda\***, Sourav Medya and Sayan Ranu, "[NeuroCut: A Neural Approach for Robust Graph Partitioning](https://arxiv.org/abs/2310.11787)", in KDD, 2024.(\*Joint authorship)
 
-Mridul Gupta\*, **Sahil Manchanda\***, Hariprasad Kodamana and Sayan Ranu, "Mirage: Model-agnostic Graph Distillation for Graph Classification", in ICLR, 2024.
+Mridul Gupta\*, **Sahil Manchanda\***, Hariprasad Kodamana and Sayan Ranu, "[Mirage: Model-agnostic Graph Distillation for Graph Classification](https://openreview.net/forum?id=78iGZdqxYY)", in ICLR, 2024.
    
-**Sahil Manchanda**\*, Shubham Gupta\*, Sayan Ranu and Srikanta Bedathur "Generative Modeling of Labeled Graphs under Data Scarcity"  in **LOG 2023**. (\*Joint authorship)
+**Sahil Manchanda**\*, Shubham Gupta\*, Sayan Ranu and Srikanta Bedathur "[Generative Modeling of Labeled Graphs under Data Scarcity](https://proceedings.mlr.press/v231/manchanda24a.html)"  in **LOG 2023**. (\*Joint authorship)
 
-Shubham Gupta\*, **Sahil Manchanda\***, Sayan Ranu and Srikanta Bedathur "GRAFENNE: Continual learning on Graphs with Heterogeneous and Dynamic Feature Sets"  in **ICML 2023**. (\*Joint authorship)
+Shubham Gupta\*, **Sahil Manchanda\***, Sayan Ranu and Srikanta Bedathur "[GRAFENNE: Continual learning on Graphs with Heterogeneous and Dynamic Feature Sets]([https://arxiv.org/pdf/2306.03447.pdf](https://proceedings.mlr.press/v202/gupta23b/gupta23b.pdf))"  in **ICML 2023**. (\*Joint authorship)
 
-Vaibhav Bihani, **Sahil Manchanda**, Srikant Sastry, Sayan Ranu and Anoop Krishnan "StriderNet: A Graph Reinforcement Learning Approach to Optimize Atomic Structures on Rough Energy Landscapes" **ICML 2023**.
+Vaibhav Bihani, **Sahil Manchanda**, Srikant Sastry, Sayan Ranu and Anoop Krishnan "[StriderNet: A Graph Reinforcement Learning Approach to Optimize Atomic Structures on Rough Energy Landscapes](https://proceedings.mlr.press/v202/bihani23a/bihani23a.pdf)" **ICML 2023**.
 
 **Sahil Manchanda** and Sayan Ranu "[Lifelong Learning to solve Mixed Integer Programs](https://arxiv.org/abs/2208.12226)". in **AAAI 2023**. 
 
