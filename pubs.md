@@ -11,7 +11,7 @@ permalink: /pubs/
 
 ### Publications
 
-Rishi Rajesh Shah\*, Krishnanshu Jain\*, **Sahil Manchanda\***, Sourav Medya and Sayan Ranu, "[NeuroCut: A Neural Approach for Robust Graph Partitioning](https://arxiv.org/abs/2310.11787)", in **KDD, 2024**.(\*Joint authorship)
+Rishi Rajesh Shah\*, Krishnanshu Jain\*, **Sahil Manchanda\***, Sourav Medya and Sayan Ranu, "[NeuroCut: A Neural Approach for Robust Graph Partitioning](https://arxiv.org/abs/2310.11787)", in **KDD, 2024**.(\*Joint authorship) "[Video](https://www.youtube.com/watch?v=7P3kUGHoX7M)"
 
 Mridul Gupta\*, **Sahil Manchanda\***, Hariprasad Kodamana and Sayan Ranu, "[Mirage: Model-agnostic Graph Distillation for Graph Classification](https://openreview.net/forum?id=78iGZdqxYY)", in **ICLR, 2024**.(\*Joint authorship)
    
