@@ -21,7 +21,7 @@ Research Interests:
 
    **1. ML and Graphs**   
    **2. Optimization using ML and Graph ML**   
-   **3. Graph Generative Modeling**   
+   **3. Generative Modeling**   
    **4. Recommendation Systems and retention. User behavior modeling**
    
  <br>
