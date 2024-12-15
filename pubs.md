@@ -11,6 +11,8 @@ permalink: /pubs/
 
 ### Publications
 
+Sahil Manchanda, Dana Kianfar, Markus Peschl, Romain Lepert, Michaël Defferrard, "[NeuroSteiner: A Graph Transformer for Wirelength Estimation]([https://arxiv.org/abs/2310.11787](https://arxiv.org/abs/2407.03792))", in **AAAI, 2025 Workshop of AI to accelerate Science**.(\*Joint authorship) "[Video](https://www.youtube.com/watch?v=7P3kUGHoX7M)"
+
 Rishi Rajesh Shah\*, Krishnanshu Jain\*, **Sahil Manchanda\***, Sourav Medya and Sayan Ranu, "[NeuroCut: A Neural Approach for Robust Graph Partitioning](https://arxiv.org/abs/2310.11787)", in **KDD, 2024**.(\*Joint authorship) "[Video](https://www.youtube.com/watch?v=7P3kUGHoX7M)"
 
 Mridul Gupta\*, **Sahil Manchanda\***, Hariprasad Kodamana and Sayan Ranu, "[Mirage: Model-agnostic Graph Distillation for Graph Classification](https://openreview.net/forum?id=78iGZdqxYY)", in **ICLR, 2024**.(\*Joint authorship)
