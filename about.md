@@ -28,7 +28,7 @@ Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learn
 
 # <center>News</center>
 
-**Dec 2024: Paper  "NeuroSteiner: A Graph Transformer for Wirelength Estimation on Steiner  accepted in AAAI workshop in AI to accelerate Science[Link](https://arxiv.org/abs/2407.03792).**
+**Dec 2024: Paper  "NeuroSteiner: A Graph Transformer for Wirelength Estimation on Steiner  accepted in AAAI workshop in AI to accelerate Science [Link](https://arxiv.org/abs/2407.03792).**
 
 **May 2024: Paper on Neural Graph Partitioning accepted in KDD 2024 [Video](https://youtu.be/7P3kUGHoX7M?si=2Dat9H4kaZyqwGiz).** 
 
