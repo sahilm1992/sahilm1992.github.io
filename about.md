@@ -14,7 +14,7 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a Research Scientist in the Data Science Team at [PocketFM](https://pocketfm.com/). I completed my PhD under the supervision of Dr. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) at the Department of Computer Science and Engineering at [IIT Delhi](https://cse.iitd.ac.in). 
+I am a Research Scientist in the Data Science Team at [PocketFM](https://pocketfm.com/). I completed my PhD under the supervision of Prof. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) at the Department of Computer Science and Engineering at [IIT Delhi](https://cse.iitd.ac.in). 
 
 
 Research Interests:
