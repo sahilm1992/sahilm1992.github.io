@@ -14,7 +14,7 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a Research Scientist in the Data Science Team at [PocketFM](https://pocketfm.com/). I completed my PhD under the supervision of Prof. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) at the Department of Computer Science and Engineering at [IIT Delhi](https://cse.iitd.ac.in). 
+I am a Manager Data Scientist at Mastercard AI Garage, India. I completed my PhD under the supervision of Prof. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) at the Department of Computer Science and Engineering at [IIT Delhi](https://cse.iitd.ac.in). 
 
 
 Research Interests:
@@ -22,7 +22,7 @@ Research Interests:
    **1. ML and Graphs**   
    **2. Optimization using ML and Graph ML**   
    **3. Generative Modeling**   
-   **4. Recommendation Systems and Retention. User behavior modeling**
+   **4. Model bias**
    
  <br>
 Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse). Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en) for more details. 
