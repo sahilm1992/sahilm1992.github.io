@@ -12,7 +12,7 @@ A selection of my <b>experiences</b>.
 - **Mastercard AI Garage, India**, May 2025 - Present
   * **Manager**, Data Science
 <br/><br/>
-- **Pocket FM, India**, June 2023 - Oct 2023
+- **Pocket FM, India**, Apr 2024 - May 2025
   * **Research Scientist**, Machine Learning and Statistics
 <br/><br/>
 - **Qualcomm AI Research, Amsterdam**, June 2023 - Oct 2023
