@@ -19,8 +19,8 @@ I am a Manager Data Scientist at Mastercard AI Garage, India. I completed my PhD
 
 Research Interests:
 
-   **1. ML, Graphs and Optmization. Learning under Data Scarcity.**  
-   **3. Generative Modeling**   
+   **1. ML, Graphs and Optmization, Learning under Data Scarcity.**  
+   **2. Generative Modeling**   
    **4. Model bias**
    
  <br>
