@@ -29,7 +29,7 @@ Previously I worked as a Research Scientist at Pocket FM. Prior to joining IIT D
 # <center>News</center>
 
 
-**May 2025: Paper  "What is in a name? Mitigating Name Bias in Text Embedding Similarity via Anonymization" accepted in Findings of ACL 2025  [Link](https://arxiv.org/abs/2407.03792).**
+**May 2025: Paper  "What is in a name? Mitigating Name Bias in Text Embedding Similarity via Anonymization" accepted in Findings of ACL 2025  [Link](https://aclanthology.org/2025.findings-acl.914/).**
 
 **Dec 2024: Paper  "NeuroSteiner: A Graph Transformer for Wirelength Estimation on Steiner" accepted in AAAI workshop: AI to accelerate Science [Link](https://arxiv.org/abs/2407.03792).**
 
