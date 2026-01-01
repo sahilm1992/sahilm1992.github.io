@@ -37,7 +37,7 @@ Previously I worked as a Research Scientist at Pocket FM. Prior to joining IIT D
 
 **Dec 2023: Outstanding Reviewer Award at ACM CODS COMAD 2024. Rewarded to top 3 out of 49 reviewers**
 
-**Nov 2023:**:**Paper Accepted in Learning on Graphs Conference(LOG 2023)**
+**Nov 2023:**:**Paper on Geneartive Graph modeling under Data Scarcity Accepted in Learning on Graphs Conference(LOG 2023)**
 
 **June 2023:**: **Outstanding Teaching Assistanship Award for Database Systems and Graph Neural Network course (UG + PG) at IIT Delhi 2023**
  
