@@ -42,7 +42,7 @@ Previously I worked as a Research Scientist at Pocket FM. Prior to joining IIT D
 **June 2023:**: **Outstanding Teaching Assistanship Award for Database Systems and Graph Neural Network course (UG + PG) at IIT Delhi 2023**
  
 
-**April 2023:**: **2 papers accepted in ICML 2023**
+**April 2023:**: **2 papers accepted in ICML 2023. One on using GNN + RL for finding stable materials. Second on learing on graphs under continuous stream of data.**
 
 **April 2023:** **Selected for attending HLF: Was one of the 200 young researchers selected across the globe to attend the [Heidelberg Laureate Forum](heidelberg-laureate-forum.org/) in Germany in 2023.** 
 
