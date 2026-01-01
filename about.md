@@ -21,7 +21,7 @@ Research Interests:
 
    **1. ML, Graphs and Optmization, Learning under Data Scarcity.**  
    **2. Generative Modeling**   
-   **4. Model bias**
+   **3. Model bias**
    
  <br>
 Previously I worked as a Research Scientist at Pocket FM. Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse). Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en) for more details. 
