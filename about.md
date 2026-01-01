@@ -19,15 +19,17 @@ I am a Manager Data Scientist at Mastercard AI Garage, India. I completed my PhD
 
 Research Interests:
 
-   **1. ML and Graphs**   
-   **2. Optimization using ML and Graph ML**   
+   **1. ML, Graphs and Optmization. Learning under Data Scarcity.**  
    **3. Generative Modeling**   
    **4. Model bias**
    
  <br>
-Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse). Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en) for more details. 
+Previously I worked as a Research Scientist at Pocket FM. Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse). Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en) for more details. 
 
 # <center>News</center>
+
+
+**May 2025: Paper  "What is in a name? Mitigating Name Bias in Text Embedding Similarity via Anonymization" accepted in Findings of ACL 2025  [Link]([https://arxiv.org/abs/2407.03792](https://aclanthology.org/2025.findings-acl.914/)).**
 
 **Dec 2024: Paper  "NeuroSteiner: A Graph Transformer for Wirelength Estimation on Steiner" accepted in AAAI workshop: AI to accelerate Science [Link](https://arxiv.org/abs/2407.03792).**
 
