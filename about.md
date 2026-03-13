@@ -12,7 +12,7 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a Manager Data Scientist at Mastercard AI Garage, India. I completed my PhD under the supervision of Prof. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) at the Department of Computer Science and Engineering at [IIT Delhi](https://cse.iitd.ac.in). 
+I am a Manager Data Scientist at Mastercard AI Garage, India. I completed my PhD under the supervision of Prof. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) at the Department of Computer Science and Engineering at [IIT Delhi](https://cse.iitd.ac.in) in thr area of Learning to Solve Combinatorial Optimization Problems over Graphs.
 
 
 Research Interests:
