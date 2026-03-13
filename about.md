@@ -19,7 +19,7 @@ Research Interests:
 
    **1. ML, Graphs and Optimization, Learning under Data Scarcity.**  
    **2. Generative Modeling**   
-   **3. Model bias identification and mitigation**
+   **3. Model bias identification and mitigation.**
    
  <br>
 Previously I worked as a Research Scientist at Pocket FM. Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse). Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en) for more details. 
@@ -35,7 +35,7 @@ Previously I worked as a Research Scientist at Pocket FM. Prior to joining IIT D
 
 **Dec 2023: Outstanding Reviewer Award at ACM CODS COMAD 2024. Rewarded to top 3 out of 49 reviewers**
 
-**Nov 2023:**:**Paper on Generative Graph modeling under Data Scarcity Accepted in Learning on Graphs Conference(LOG 2023)**
+**Nov 2023:**:**Paper on Generative Graph modeling under Data Scarcity Accepted in Learning on Graphs Conference(LoG 2023)**
 
 **June 2023:**: **Outstanding Teaching Assistanship Award for Database Systems and Graph Neural Network course (UG + PG) at IIT Delhi 2023**
  
