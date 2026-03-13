@@ -26,7 +26,7 @@ Previously I worked as a Research Scientist at Pocket FM. Prior to joining IIT D
 
 # <center>News</center>
 
-**Jan 2026: Received IIT Delhi Distinction in Doctoral Dissertation award.**
+**Jan 2026: Received IIT Delhi Distinction in Doctoral research award.**
 
 
 **May 2025: Paper  "What is in a name? Mitigating Name Bias in Text Embedding Similarity via Anonymization" accepted in Findings of ACL 2025 [Link](https://aclanthology.org/2025.findings-acl.914/).**
