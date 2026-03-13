@@ -18,7 +18,7 @@ I am a Manager Data Scientist at Mastercard AI Garage, India. I completed my PhD
 Research Interests:
 
    **1. ML, Graphs and Optimization, Learning under Data Scarcity.**  
-   **2. Generative Modeling**   
+   **2. Generative Modeling.**   
    **3. Model bias identification and mitigation.**
    
  <br>
@@ -29,18 +29,20 @@ Previously I worked as a Research Scientist at Pocket FM. Prior to joining IIT D
 **Jan 2026: Received IIT Delhi Distinction in Doctoral Dissertation award.**
 
 
-**May 2025: Paper  "What is in a name? Mitigating Name Bias in Text Embedding Similarity via Anonymization" accepted in Findings of ACL 2025  [Link](https://aclanthology.org/2025.findings-acl.914/).**
+**May 2025: Paper  "What is in a name? Mitigating Name Bias in Text Embedding Similarity via Anonymization" accepted in Findings of ACL 2025 [Link](https://aclanthology.org/2025.findings-acl.914/).**
 
 **Dec 2024: Paper  "NeuroSteiner: A Graph Transformer for Wirelength Estimation on Steiner" accepted in AAAI workshop: AI to accelerate Science [Link](https://arxiv.org/abs/2407.03792).**
 
 **May 2024: Paper on Neural Graph Partitioning accepted in KDD 2024 [Video](https://youtu.be/7P3kUGHoX7M?si=2Dat9H4kaZyqwGiz).** 
 
-**Dec 2023: Outstanding Reviewer Award at ACM CODS COMAD 2024. Rewarded to top 3 out of 49 reviewers**
+**Dec 2023: Outstanding Reviewer Award at ACM CODS COMAD 2024. Rewarded to top 3 out of 49 reviewers.**
 
-**Nov 2023:**:**Paper on Generative Graph modeling under Data Scarcity Accepted in Learning on Graphs Conference(LoG 2023)**
+**Nov 2023:**:**Paper on Generative Graph modeling under Data Scarcity Accepted in Learning on Graphs Conference(LoG 2023).**
 
-**June 2023:**: **Outstanding Teaching Assistanship Award for Database Systems and Graph Neural Network course (UG + PG) at IIT Delhi 2023**
- 
+**June 2023:**: **Outstanding Teaching Assistanship Award for Database Systems and Graph Neural Network course (UG + PG) at IIT Delhi 2023.**
+
+
+ **June 2023:**: **Started internship at Qualcomm AI Research, Amsterdam.**
 
 **April 2023:**: **2 papers accepted in ICML 2023. One on using GNN + RL for finding stable materials. Second on learning on graphs under continuous stream of data.**
 
