@@ -22,9 +22,11 @@ Research Interests:
    **3. Model bias identification and mitigation.**
    
  <br>
-Previously I worked as a Research Scientist at Pocket FM. Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs( Formerly Xerox Research Center India). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse). Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en) for more details. 
+Previously I worked as a Research Scientist at Pocket FM. Prior to joining IIT Delhi, I worked as a Research Engineer in the Machine learning and statistics group at Conduent Labs (Formerly Xerox Research Center India). I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology Guwahati](http://iitg.ernet.in/cse). Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=OPyjQHwAAAAJ&hl=en) for more details. 
 
 # <center>News</center>
+
+**Jan 2026: Received IIT Delhi Distinction in Doctoral Dissertation award.**
 
 
 **May 2025: Paper  "What is in a name? Mitigating Name Bias in Text Embedding Similarity via Anonymization" accepted in Findings of ACL 2025  [Link](https://aclanthology.org/2025.findings-acl.914/).**
