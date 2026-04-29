@@ -12,6 +12,10 @@ permalink: /pubs/
 ### Publications
 
 
+
+Saurav Sudevan, Harsh Pal, Yatin Katyal, and Sahil Manchanda "Uncovering Currency Bias and Syntax Gap in Text-embedding model", **Findings of ACL 2026**, **[ACL Findings 2026](https://2026.aclweb.org/program/find_papers/)**
+
+
 Sahil Manchanda and Pannaga Shivaswamy, "[What is in a name? Mitigating Name Bias in Text Embeddings via Anonymization](https://arxiv.org/pdf/2502.02903)",  **[ACL Findings 2025](https://2025.aclweb.org/program/find_papers/)**
 
 Sahil Manchanda, Dana Kianfar, Markus Peschl, Romain Lepert, Michaël Defferrard, "[NeuroSteiner: A Graph Transformer for Wirelength Estimation]([https://arxiv.org/abs/2310.11787](https://arxiv.org/abs/2407.03792))", in **AAAI, 2025 Workshop of AI to accelerate Science.**
