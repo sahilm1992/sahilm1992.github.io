@@ -26,6 +26,9 @@ Previously I worked as a Research Scientist at Pocket FM. Prior to joining IIT D
 
 # <center>News</center>
 
+
+**April 2026: Paper "Uncovering Currency Bias and Syntax Gap in Text-embedding models is accepted at Findings of ACL 2026".** 
+
 **Jan 2026: Received IIT Delhi Distinction in Doctoral Research award.**
 
 
