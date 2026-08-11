@@ -26,6 +26,8 @@ Previously I worked as a Research Scientist at Pocket FM. Prior to joining IIT D
 
 # <center>News</center>
 
+**August 2026: Paper "𝗥𝗼𝗯𝘂𝘀𝘁 𝗮𝗻𝗱 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗠𝗲𝗿𝗰𝗵𝗮𝗻𝘁 𝗙𝗿𝗮𝘂𝗱 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝘃𝗶𝗮 𝗦𝘂𝗿𝗿𝗼𝗴𝗮𝘁𝗲-𝗚𝘂𝗶𝗱𝗲𝗱 𝗡𝗲𝗶𝗴𝗵𝗯𝗼𝗿 𝗦𝗲𝗹𝗲𝗰𝘁𝗶𝗼𝗻 
+at CIKM 2026 Applied Research Track (Oral)".** 
 
 **April 2026: Paper "Uncovering Currency Bias and Syntax Gap in Text-embedding models is accepted at Findings of ACL 2026".** 
 
