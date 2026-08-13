@@ -12,15 +12,15 @@ permalink: /pubs/
 ### Publications
 
 
-Jahnavi Methukumalli, Shivani Sharma, Aditi Prasad, Manasvi Aggarwal, Rupam Kumawat, Suhas Powar, Yatin Katyal, and Sahil Manchanda "𝗥𝗼𝗯𝘂𝘀𝘁 𝗮𝗻𝗱 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗠𝗲𝗿𝗰𝗵𝗮𝗻𝘁 𝗙𝗿𝗮𝘂𝗱 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝘃𝗶𝗮 𝗦𝘂𝗿𝗿𝗼𝗴𝗮𝘁𝗲-𝗚𝘂𝗶𝗱𝗲𝗱 𝗡𝗲𝗶𝗴𝗵𝗯𝗼𝗿 𝗦𝗲𝗹𝗲𝗰𝘁𝗶𝗼𝗻", **[CIKM 2026 Applied Research - Full Paper](https://cikm2026.diag.uniroma1.it/)**
+Jahnavi Methukumalli, Shivani Sharma, Aditi Prasad, Manasvi Aggarwal, Rupam Kumawat, Suhas Powar, Yatin Katyal, and **Sahil Manchanda** "𝗥𝗼𝗯𝘂𝘀𝘁 𝗮𝗻𝗱 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗠𝗲𝗿𝗰𝗵𝗮𝗻𝘁 𝗙𝗿𝗮𝘂𝗱 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝘃𝗶𝗮 𝗦𝘂𝗿𝗿𝗼𝗴𝗮𝘁𝗲-𝗚𝘂𝗶𝗱𝗲𝗱 𝗡𝗲𝗶𝗴𝗵𝗯𝗼𝗿 𝗦𝗲𝗹𝗲𝗰𝘁𝗶𝗼𝗻", **[CIKM 2026 Applied Research - Full Paper](https://cikm2026.diag.uniroma1.it/)**
 
 
-Saurav Sudevan, Harsh Pal, Yatin Katyal, and Sahil Manchanda "[Uncovering Currency Bias and Syntax Gap in Text-embedding model](https://aclanthology.org/2026.findings-acl.2118/)", **Findings of ACL 2026**, **[ACL Findings 2026](https://2026.aclweb.org/program/find_papers/)**
+Saurav Sudevan, Harsh Pal, Yatin Katyal, and **Sahil Manchanda** "[Uncovering Currency Bias and Syntax Gap in Text-embedding model](https://aclanthology.org/2026.findings-acl.2118/)", **Findings of ACL 2026**, **[ACL Findings 2026](https://2026.aclweb.org/program/find_papers/)**
 
 
-Sahil Manchanda and Pannaga Shivaswamy, "[What is in a name? Mitigating Name Bias in Text Embeddings via Anonymization](https://arxiv.org/pdf/2502.02903)",  **[ACL Findings 2025](https://2025.aclweb.org/program/find_papers/)**
+**Sahil Manchanda** and Pannaga Shivaswamy, "[What is in a name? Mitigating Name Bias in Text Embeddings via Anonymization](https://arxiv.org/pdf/2502.02903)",  **[ACL Findings 2025](https://2025.aclweb.org/program/find_papers/)**
 
-Sahil Manchanda, Dana Kianfar, Markus Peschl, Romain Lepert, Michaël Defferrard, "[NeuroSteiner: A Graph Transformer for Wirelength Estimation]([https://arxiv.org/abs/2310.11787](https://arxiv.org/abs/2407.03792))", in **AAAI, 2025 Workshop of AI to accelerate Science.**
+**Sahil Manchanda**, Dana Kianfar, Markus Peschl, Romain Lepert, Michaël Defferrard, "[NeuroSteiner: A Graph Transformer for Wirelength Estimation]([https://arxiv.org/abs/2310.11787](https://arxiv.org/abs/2407.03792))", in **AAAI, 2025 Workshop of AI to accelerate Science.**
 
 Rishi Rajesh Shah\*, Krishnanshu Jain\*, **Sahil Manchanda\***, Sourav Medya and Sayan Ranu, "[NeuroCut: A Neural Approach for Robust Graph Partitioning](https://arxiv.org/abs/2310.11787)", in **KDD, 2024**.(\*Joint authorship) "[Video](https://www.youtube.com/watch?v=7P3kUGHoX7M)"
 
